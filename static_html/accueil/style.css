@@ -114,6 +114,7 @@ header			{    position: absolute;
 	
 }
 
+
 .plus:hover 
 	
 	{display: block;
@@ -213,3 +214,9 @@ footer a {
 	color : #f2d500 ;
 	text-decoration: none;
 }
+
+.form-control {height : 3em ; 
+				margin-bottom : 6em ; }
+
+label h1		{font-family : mosk600 ; color : #f2d500 } 
+
