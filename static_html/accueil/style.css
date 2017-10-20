@@ -125,12 +125,9 @@ header			{    position: absolute;
     background-color: white;
     margin-left: -50px;
     margin-top: -27px;
+}
 
 /* footer */ 
-@font-face		{font-family : mosk600 ; src: url("font/mosk600.ttf") ; }
-@font-face		{font-family : mosk700 ; src: url("font/mosk700.ttf") ; }
-@font-face		{font-family : mosk800 ; src: url("font/mosk800.ttf") ; }
-@font-face		{font-family : mosk900 ; src: url("font/mosk900.ttf") ; }
 
 
 footer {
