@@ -1,0 +1,69 @@
+@font-face		{font-family : mosk600 ; src: url("font/mosk600.ttf") ; }
+@font-face		{font-family : mosk700 ; src: url("font/mosk700.ttf") ; }
+@font-face		{font-family : mosk800 ; src: url("font/mosk800.ttf") ; }
+@font-face		{font-family : mosk900 ; src: url("font/mosk900.ttf") ; }
+
+
+
+.title {
+	margin-bottom: 2rem;
+	font-family :	;
+	margin-top: 5em;
+    padding-left: 4em;
+	text-align: left
+}
+.sstitle {
+	font-family : helvetica ;
+	padding-right: 8em;
+    padding-left: 6em;
+	font-size : 1.7em ;
+	text-align: justify
+}
+
+.col {
+	padding-right: 0px;
+    padding-left: 0px;
+}
+
+
+
+.T1 {
+	color : #f2d500 ;
+	font-family : mosk600
+}
+
+.T2 {
+	color : #f2d500 ;
+	font-family : mosk900
+}
+
+.T3 {
+	color : black ;
+	font-family : mosk900
+}
+
+
+.bandeau {
+	text-align : center ;
+	line-height: 1.2;
+}
+
+
+.bandeaunumber{
+	color : white ;
+	font-family : mosk600 ;
+	text-align : center ;
+	font-size : 10em ;
+	padding : none ;
+	margin : none ;
+}
+
+.bandeaunumber1{
+	color : black ;
+	font-family : helvetica ;
+	margin : none ;
+	padding : none ;
+	font-size : 25px ;
+	padding-bottom : 2em ;
+	text-align : center ;
+}

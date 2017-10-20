@@ -1,0 +1,29 @@
+
+
+
+/* body 			{margin : 0 ; height : 0;} */
+/*.mycontainer 		{background : rgba(0,0,0,0.5) ; color : white ; text-align : center ; width : 20%; padding : 1em ; margin : 0;}*/
+.greybg {
+	background: rgba(0,0,0,0.5);
+	color: white;
+	text-align: center;
+
+    margin-left: 10%;
+}
+.formation 		{ margin : 3em}
+
+.flying_video_popup{
+	padding-top: 256px;
+}
+
+.plus{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 1em;
+    width: 4em;
+    height: 4em;
+    background-color: #f2d500;
+    margin-left: -50px;
+    margin-top: -27px;
+}
