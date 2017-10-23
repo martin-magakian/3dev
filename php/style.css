@@ -252,6 +252,11 @@ span {
     margin: auto auto;
 }
 
+.spaceline {
+margin-bottom: 100px
+}
+
+
 .vcenter {
 	display: flex;
     align-items: center;

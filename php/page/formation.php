@@ -4,7 +4,7 @@
 		<div class="container containerformation">
 		<h1> Nos atouts chez 3DEV </h1>
             <div class="row">
-                <div class="col-lg-6">
+                <div class="col-lg-6 spaceline">
 					<div class="row">
 						<div class="col-lg-4">
 							<img src="image/engrenage.svg" class="engrenage"></img>
@@ -16,7 +16,7 @@
 						</div>
 					</div>   
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-6 spaceline">
 					<div class="row">
 						<div class="col-lg-4">
 							<img src="image/bonhomme.svg" class="engrenage"></img>
@@ -30,7 +30,7 @@
                 </div>
             </div>
 			 <div class="row">
-                <div class="col-lg-6">
+                <div class="col-lg-6 spaceline">
 					<div class="row">
 						<div class="col-lg-4">
 							<img src="image/engrenage.svg" class="engrenage"></img>
@@ -42,10 +42,10 @@
 						</div>
 					</div>   
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-6 spaceline">
 					<div class="row">
 						<div class="col-lg-4">
-							<img src="image/bonhomme.svg" class="engrenage"></img>
+							<img src="image/like.svg" class="engrenage"></img>
 						</div>
 						
 						
@@ -56,10 +56,10 @@
                 </div>
             </div>
 			 <div class="row">
-                <div class="col-lg-6">
+                <div class="col-lg-6 spaceline">
 					<div class="row">
 						<div class="col-lg-4">
-							<img src="image/engrenage.svg" class="engrenage"></img>
+							<img src="image/haltere.svg" class="engrenage"></img>
 						</div>
 						
 						
@@ -68,10 +68,10 @@
 						</div>
 					</div>   
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-6 spaceline">
 					<div class="row">
 						<div class="col-lg-4">
-							<img src="image/bonhomme.svg" class="engrenage"></img>
+							<img src="image/connect.svg" class="engrenage"></img>
 						</div>
 						
 						
