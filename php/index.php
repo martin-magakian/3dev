@@ -24,6 +24,8 @@
 					include("page/about.php");
 				}else if ($_GET['page'] == "contact"){
 					include("page/contact.php");
+				}else if ($_GET['page'] == "formation"){
+					include("page/formation.php");
 				}else{
 					include("page/404.php");
 				}
