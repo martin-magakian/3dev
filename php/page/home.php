@@ -1,6 +1,6 @@
 <!--video-->
 <div data-vide-bg="https://www.ironhack.com/assets/videos/ironhack-video-3" style="height: 700px">
-	<h1 class="accroche"><span class="T1">&#60&#47 Vivre le <span class="T2">code></span></h1>
+	<h1 class="accroche"><span class="T1">&#60&#47Vivre le <span class="T2">code></span></h1>
 </div>
 		
 		
@@ -16,7 +16,7 @@
 		</div>
 		<div class="col-lg-6 col-md-12 center-vertical">
 			<div class="pourquoi_3dev">
-				<h1 class="title"><span class="T1">&#60&#47 Pourquoi</span><span class="T2">3</span><span class="T3">DEV</span><span class="T1">&#62 </span> </span></h1>
+				<h1 class="title"><span class="T1">&#60&#47Pourquoi</span><span class="T2">3</span><span class="T3">DEV</span><span class="T1">&#62 </span> </span></h1>
 				<p class="sstitle">
 					3 dev, c’est la première formation uniquement pour developeurs ouverte à tous. Sa pédagogie c’est le bootcamps, travailler sur des vrais projet ensemble dans une ambiance de start up et de famille.
 				</p>
