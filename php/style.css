@@ -30,7 +30,7 @@ header			{    position: absolute;
 	display:flex;
 	align-items:center;
 }
-	
+
 .pourquoi_3dev {
 	padding-right: 15%;
     padding-left: 15%;
@@ -252,16 +252,6 @@ span {
     margin: auto auto;
 }
 
-.spaceline {
-margin-bottom: 100px
-}
-
-
-.vcenter {
-	display: flex;
-    align-items: center;
-}
-
 .forma {
 	font-family : arial;
 	font-size : 25px;
@@ -280,8 +270,19 @@ margin-bottom: 100px
 	margin-right: 36px;
 }
 
+<<<<<<< HEAD
+/* .table { */
+    /* width: 100%; */
+    /* max-width: 100%; */
+    /* margin-bottom: 1rem; */
+    /* margin-top: 1em; */
+}
 
+/* table-dark, .table-dark>td, .table-dark>th { */
+    /* background-color: #f1d614 ; */
+}
 	
+=======
 .accroche		{display : block ;
 				text-align : center ;
 				}
@@ -300,10 +301,36 @@ margin-bottom: 100px
 				padding-top : 0.8em ;
 				
 				}
-
+				
 form		{display : block ;
 			margin-left : -20em ; 
 			margin-right : 25em ;
 			margin-top : 3em ;
-			line-height : 30em ;
 			}
+
+.myBackgroundImage {
+	/* can change */
+	background-image: url("image/mac.png");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	margin:auto;
+	color: white;
+	/*padding: 100px 0;*/
+	 width: 100%;
+	height: 25em ;
+	padding-right: 0px;
+    padding-left: 0px;
+	padding-top: 12em;
+	}
+	/* don't change 
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizelegibility;
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+    background-color: #FFFFFF;
+}*/
+
+.na 		{display : block ; color: white ; font-family : gros titre ; text-align: center ; }
