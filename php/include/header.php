@@ -1,6 +1,6 @@
 <header>
 	<nav class="navbar navbar-expand-md">
-		<img src="image/monkeys.png" height="90" alt="image">
+		<a href="/?page=home"><img src="image/monkeys.png" height="90" alt="image"></a>
 		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav11" aria-controls="navbarNav11" aria-expanded="false" aria-label="Toggle navigation">
 			<span class="navbar-toggler-icon"></span>
 		</button>
