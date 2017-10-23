@@ -7,25 +7,15 @@
 		
 		<!--image-->
 		
-		<div class="container-fluid myBackgroundImage">
-
-				
-					  
-			<div class="container">
-				<div class="row">
-					<div class="col">
-
-						
-					   <div class="row justify-content-center align-items-center">
-							<div class="col-10 " style="text-align: center">
-								<h1 class="na">  Nos atouts </h1>
-							</div>
-						</div>
-					
-					</div>
-				</div>
+		<section class="myBackgroundImage">
+		<div class="container">
+			<div class="row justify-content-center align-items-center">
+			  <div class="col-6 " style="text-align: center">
+				<h2>Hello</h2>
+			  </div>
 			</div>
 		</div>
+	</section>
 		<!--<section class="myBackgroundImage">
 		<div class="container">
 			<div class="row justify-content-center align-items-center">
