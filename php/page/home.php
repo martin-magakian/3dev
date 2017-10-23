@@ -3,6 +3,10 @@
 	<h1 class="accroche"><span class="T1">&#60&#47 Vivre le <span class="T2">code></span></h1>
 </div>
 		
+		
+<div class="container-fluid bandeau-noir " style="background-color : black">
+</div>
+
 	
 <!-- pourquoi ? -->
 <div>

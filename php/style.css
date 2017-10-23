@@ -55,6 +55,8 @@ header			{    position: absolute;
 	font-family : mosk900
 }
 
+.bandeau-noir 		{background-color : black ; width : 100% ; height : 5em ; margin : 0 ; padding: 0; }
+
 /* bandeau */
 .bandeau {
 	text-align : center ;
@@ -268,6 +270,7 @@ span {
 	margin-right: 36px;
 }
 
+<<<<<<< HEAD
 /* .table { */
     /* width: 100%; */
     /* max-width: 100%; */
@@ -279,3 +282,29 @@ span {
     /* background-color: #f1d614 ; */
 }
 	
+=======
+.accroche		{display : block ;
+				text-align : center ;
+				}
+
+.titre			{display : block ; color: white ; font-family : gros titre ; position : fixed; }
+#map			{width : 100% ; height : auto ; }
+.bandeaujaune	{display : block; 
+				background-color : rgb(242,213,0) ; 
+				text-align : center ; 
+				vertical-align : center ; 
+				width : 100% ;
+				height : 3em ; 
+				font-size : 2em ;
+				font-family : gros titre ;
+				color : white ;
+				padding-top : 0.8em ;
+				
+				}
+				
+form		{display : block ;
+			margin-left : -20em ; 
+			margin-right : 25em ;
+			margin-top : 3em ;
+			}
+>>>>>>> d5c7af70c580e2decec2aaf061e726bc8f001c80
