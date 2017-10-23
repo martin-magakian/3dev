@@ -2,7 +2,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col">
-				<h3><a href="formulaire.html"id="lien"> Contact </a> </h3>
+				<h3><a href="/?page=formation"id="lien"> Contact </a> </h3>
 				<ul>
 					<li>info@3dev.com</li>
 					<li>+33 6 18 79 24 58</li>

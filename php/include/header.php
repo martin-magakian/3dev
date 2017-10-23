@@ -8,7 +8,7 @@
 		<div class="collapse navbar-collapse" id="navbarNav11">
 			<ul class="navbar-nav ml-auto">
 				<li class="nav-item active">
-					<a class="nav-link" href="">Formation<span class="sr-only">(current)</span></a>
+					<a class="nav-link" href="/?page=formation">Formation<span class="sr-only">(current)</span></a>
 				</li>
 				<li class="nav-item">
 					<a class="nav-link" href=""></a>
