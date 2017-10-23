@@ -124,7 +124,7 @@
 			</div>
 		</div>
 		
-		<table class="table table-striped table-dark">
+		<table class="table tarif" style="text-align:center ; color : black ;">
  <tbody>
     <tr>
       <th scope="row"></th>
