@@ -12,23 +12,23 @@
               </div>
             </div>
 
-            <div class="row mt-4">
+            <div class="row">
               <div class="col">
                 <input type="email" class="form-control" placeholder="Email">
               </div>
             </div>
 
-            <div class="row mt-4">
+            <div class="row">
               <div class="col">
                 <input type="email" class="form-control"  placeholder="Sujet">
               </div>
             </div>
-            <div class="row mt-4">
+            <div class="row">
               <div class="col">
                 <textarea class="form-control" name="message" rows="3" placeholder="En quoi pouvons-nous vous aider ?"></textarea>
               </div>
             </div>
-            <div class="row mt-4">
+            <div class="row">
               <div class="col">
                 <button type="submit" class="btn">Envoyer</button>
               </div>
