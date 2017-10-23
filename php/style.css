@@ -270,6 +270,19 @@ span {
 	margin-right: 36px;
 }
 
+<<<<<<< HEAD
+/* .table { */
+    /* width: 100%; */
+    /* max-width: 100%; */
+    /* margin-bottom: 1rem; */
+    /* margin-top: 1em; */
+}
+
+/* table-dark, .table-dark>td, .table-dark>th { */
+    /* background-color: #f1d614 ; */
+}
+	
+=======
 .accroche		{display : block ;
 				text-align : center ;
 				}
@@ -294,3 +307,4 @@ form		{display : block ;
 			margin-right : 25em ;
 			margin-top : 3em ;
 			}
+>>>>>>> d5c7af70c580e2decec2aaf061e726bc8f001c80
