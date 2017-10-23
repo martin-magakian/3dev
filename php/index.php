@@ -14,9 +14,6 @@
 <?php include("include/header.php") ?>
 
 <!-- content -->
-<div class="container">
-	<div class="row">
-		<div class="col">
 			<?php
 				if ($_GET['page'] == "home"){
 					include("page/home.php");
@@ -30,10 +27,6 @@
 					include("page/404.php");
 				}
 			?>
-		</div>
-	</div>
-</div>
-
 <?php include("include/footer.php") ?>
 
 	
