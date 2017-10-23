@@ -38,79 +38,79 @@
 	-->
 	<!--content-->
             <div class="row">
-                <div class="col-lg-6">
-					<div class="row monStyle">
+                <div class="col-lg-6 spaceline">
+					<div class="row">
 						<div class="col-lg-4">
 							<img src="image/engrenage.svg" class="engrenage"></img>
 						</div>
 						
 						
-						<div class="col-lg-8">
+						<div class="col-lg-8 vcenter">
 							<div class="forma"><span>Séléctionner sur tes connaisances</span><span><br>et pas sur tes diplômes </br></span></div>
 						</div>
 					</div>   
                 </div>
-                <div class="col-lg-6">
-					<div class="row monStyle">
+                <div class="col-lg-6 spaceline">
+					<div class="row">
 						<div class="col-lg-4">
 							<img src="image/bonhomme.svg" class="engrenage"></img>
 						</div>
 						
 						
-						<div class="col-lg-8">
+						<div class="col-lg-8 vcenter" >
 							<div class="forma"><span>Pas de limite d’age</span></div>
 						</div>
 					</div>   
                 </div>
             </div>
 			 <div class="row">
-                <div class="col-lg-6">
-					<div class="row monStyle">
+                <div class="col-lg-6 spaceline">
+					<div class="row">
 						<div class="col-lg-4">
 							<img src="image/engrenage.svg" class="engrenage"></img>
 						</div>
 						
 						
-						<div class="col-lg-8">
-							<div class="forma"><span>Séléctionner sur tes connaisances</span><span><br>et pas sur tes diplômes</br></span></div>
+						<div class="col-lg-8 vcenter">
+							<div class="forma"><span>En 3 ans devenir meilleur développeur qu’un bac+5</span></div>
 						</div>
 					</div>   
                 </div>
-                <div class="col-lg-6">
-					<div class="row monStyle">
+                <div class="col-lg-6 spaceline">
+					<div class="row">
 						<div class="col-lg-4">
-							<img src="image/bonhomme.svg" class="engrenage"></img>
+							<img src="image/like.svg" class="engrenage"></img>
 						</div>
 						
 						
-						<div class="col-lg-8">
-							<div class="forma"><span>Pas de limite d’age</span></div>
+						<div class="col-lg-8 vcenter">
+							<div class="forma"><span>Après 3 ans: super job et super salaire</span></div>
 						</div>
 					</div>   
                 </div>
             </div>
 			 <div class="row">
-                <div class="col-lg-6">
-					<div class="row monStyle">
+                <div class="col-lg-6 spaceline">
+					<div class="row">
 						<div class="col-lg-4">
-							<img src="image/engrenage.svg" class="engrenage"></img>
+							<img src="image/haltere.svg" class="engrenage"></img>
 						</div>
 						
 						
-						<div class="col-lg-8">
-							<div class="forma"><span>Séléctionner sur tes connaisances</span><span><br>et pas sur tes diplômes</br></span></div>
+						<div class="col-lg-8 vcenter">
+							<div class="forma"><span>Rythme intensif, vrai projet en multi-techno, pas de matières inutile !</br></span></div>
 						</div>
 					</div>   
                 </div>
-                <div class="col-lg-6">
-					<div class="row monStyle">
+                <div class="col-lg-6 spaceline">
+					<div class="row">
 						<div class="col-lg-4">
-							<img src="image/bonhomme.svg" class="engrenage"></img>
+							<img src="image/connect.svg" class="engrenage"></img>
 						</div>
 						
 						
-						<div class="col-lg-8">
-							<div class="forma"><span>Pas de limite d’age</span></div>
+						<div class="col-lg-8 vcenter">
+							<div class="forma"><span>Prof à mi-temps en entreprise et connecté avec le monde du travail</span></div>
 						</div>
 					</div>   
                 </div>
@@ -158,30 +158,5 @@
 			</div>
 		</div>
 		
-		<table class="table tarif" style="text-align:center ; color : black ;">
- <tbody>
-    <tr>
-      <th scope="row"></th>
-	  <td></td>
-      <td>TARIF DE FORMATION </td>
-    </tr>
-  <tbody>
-    <tr>
-      <th scope="row"></th>
-	  <td></td>
-      <td>Première année de fomation 9500€</td>
-    </tr>
-    <tr>
-      <th scope="row"></th>
-	  <td></td>
-      <td>Deuxième année de fomation 9500€</td>
-     
-    </tr>
-    <tr>
-      <th scope="row"></th>
-	  <td></td>
-      <td>Troisième année de fomation 9500€</td>
-    </tr>
-  </tbody>
-</table>
+	<img src="image/tarif.png" class="img-fluid" alt="Responsive image">
 
