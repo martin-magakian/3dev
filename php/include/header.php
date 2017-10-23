@@ -17,7 +17,7 @@
 					<a class="nav-link" href="">Projet</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="page/contact.php">contact</a>
+					<a class="nav-link" href="/?page=contact">contact</a>
 				</li>
 			</ul>
 		</div>
