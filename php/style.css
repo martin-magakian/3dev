@@ -1,0 +1,222 @@
+/* photo */
+@font-face		{font-family : mosk600 ; src: url("font/mosk600.ttf") ; }
+@font-face		{font-family : mosk700 ; src: url("font/mosk700.ttf") ; }
+@font-face		{font-family : mosk800 ; src: url("font/mosk800.ttf") ; }
+@font-face		{font-family : mosk900 ; src: url("font/mosk900.ttf") ; }
+
+
+@font-face		{font-family : gros titre ; src: url("font/mosk900.ttf") ; }		
+
+.nav-link:hover  { color : yellow ; }
+.nav-link		 {color : white ; background-attachment: fixed !important;   }
+
+
+
+header			{    position: absolute;
+					width: 100%;
+					z-index: 100;
+					background-color :  rgba(180, 187, 193, 0.38)!important;
+					 
+					
+				}
+
+.accroche				{
+				width : 100% ;
+				padding-top : 350px ; 
+				text-align : center ;}
+
+
+.center-vertical{
+	display:flex;
+	align-items:center;
+}
+
+.pourquoi_3dev {
+	padding-right: 15%;
+    padding-left: 15%;
+	text-align: left;
+	font-family: helvetica;
+	font-size: 1.7em;
+	text-align: justify;
+}
+
+.T1 {
+	color : #f2d500 ;
+	font-family : mosk900
+}
+
+.T2 {
+	color : white ;
+	font-family : mosk900
+}
+
+.T3 {
+	color : black ;
+	font-family : mosk900
+}
+
+/* bandeau */
+.bandeau {
+	text-align : center ;
+	line-height: 1.2;
+}
+
+
+.bandeaunumber{
+	color : white ;
+	font-family : mosk600 ;
+	text-align : center ;
+	font-size : 10em ;
+	padding : none ;
+	margin : none ;
+}
+
+.bandeaunumber1{
+	color : black ;
+	font-family : helvetica ;
+	margin : none ;
+	padding : none ;
+	font-size : 25px ;
+	padding-bottom : 2em ;
+	text-align : center ;
+}
+
+/* formation */
+.greybg {
+	background: rgba(0,0,0,0.5);
+	color: white;
+	text-align: center;
+	padding-top : 1em ;
+    margin-left: 10%;
+}
+.formation 		{ margin : 3em}
+
+
+.flying_video_popup{
+	padding-top: 256px;
+}
+
+
+.plus a 				{text-decoration : none ; color: black; }
+.plus a:hover			{text-decoration : none ; } 
+.plus{
+	 
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 1em;
+    width: 4em;
+    height: 4em;
+    background-color: #f2d500;
+    margin-left: -50px;
+    margin-top: -27px;
+	
+	
+}
+
+
+.plus:hover 
+	
+	{display: block;
+	 color: #f2d500;
+    text-align: center;
+    padding: 1em;
+    width: 4em;
+    height: 4em;
+    background-color: white;
+    margin-left: -50px;
+    margin-top: -27px;
+}
+
+/* footer */ 
+
+
+footer {
+	background-color: black;
+	height: auto;
+	padding-bottom: 30px;
+	position: relative;
+	width: 100%;
+	border-bottom: 1px solid #CCCCCC;
+	border-top: 1px solid #DDDDDD;
+}
+
+footer h3 {
+	border-bottom: 1px solid white;
+	color: white;
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 27px;
+	padding: 40px 0 10px;
+	text-transform: uppercase;
+}
+footer ul {
+	font-size: 17px;
+	list-style-type: none;
+	margin-left: 0;
+	padding-left: 0;
+	margin-top: 15px;
+	color: white;
+}
+
+footer ul li a {
+	padding: 0 0 5px 0;
+	display: block;
+}
+footer a {
+	color: white
+}
+
+.lyon {
+	font-size : 30px
+}
+
+.onlylyon {
+	max-width: 70%;
+	height: auto ;
+	padding :0 ;
+	margin-bottom : 4em ;
+	margin-top: -10px
+	}
+	
+.fb {
+	max-width: 6%;
+	height: auto ;
+	padding :0 ;
+	margin-top : 30px ;
+	margin-left : 40px
+	}
+
+.tw {
+	max-width: 13%;
+	height: auto ;
+	padding :0 ;
+	margin-top : 35px ;
+	margin-left : 30px}
+	
+.ig {
+	max-width: 13%;
+	height: auto ;
+	padding :0 ;
+	margin-top : 29px ;
+	margin-left : 30px
+	}
+	
+.g {
+	max-width: 18%;
+	height: auto ;
+	padding :0 ;
+	margin-top : 32px ;
+	margin-left : 30px
+	}
+	
+#lien:hover {
+	color : #f2d500 ;
+	text-decoration: none;
+}
+
+.form-control {height : 3em ; 
+				margin-bottom : 6em ; }
+
+label h1		{font-family : mosk600 ; color : #f2d500 } 
+
