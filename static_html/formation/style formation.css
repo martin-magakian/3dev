@@ -1,37 +1,38 @@
-.containerformation {
-	background-color: black;
-	height: auto;
-	padding-bottom: 30px;
-	position: relative;
-	width: 100%;
+.blackbg {
+	background : black 
 }
+
+.containerformation {
+	padding-bottom: 30px;
+ }
 
 h1 {
 font-size : 40px ;
 color : white ;
 text-align : center ;
+padding-top : 2em ;
+padding-bottom : 2em
 }
 
 
 span {
-	list-style-type: none;
 	color: white;
-	margin-left: 2em ;
 }
 
 .engrenage {
-	max-width : 10%
+	height : 100px ;
+	width : 100px ;
+	display : block ;
+	max-width: 100%;
+    max-height: 100%;
+    margin: auto auto;
 }
 
 .forma {
-	font-family : helvetica ;
-	margin-left: 2em ;
-	padding : none ;
-	font-size : 30px ;
-	text-align : left ;
-	padding-top : 5em
+	font-family : arial;
+	font-size : 25px;
+	text-align : left;
 }
-
 
 .monStyle{
 	color : white ;
@@ -42,6 +43,5 @@ span {
     width: 300px;
 	text-align : center justify ;
 	font-family : helvetica ;
-	margin-right: 37px;
+	margin-right: 36px;
 }
-
