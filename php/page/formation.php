@@ -124,30 +124,5 @@
 			</div>
 		</div>
 		
-		<table class="table tarif" style="text-align:center ; color : black ;">
- <tbody>
-    <tr>
-      <th scope="row"></th>
-	  <td></td>
-      <td>TARIF DE FORMATION </td>
-    </tr>
-  <tbody>
-    <tr>
-      <th scope="row"></th>
-	  <td></td>
-      <td>Première année de fomation 9500€</td>
-    </tr>
-    <tr>
-      <th scope="row"></th>
-	  <td></td>
-      <td>Deuxième année de fomation 9500€</td>
-     
-    </tr>
-    <tr>
-      <th scope="row"></th>
-	  <td></td>
-      <td>Troisième année de fomation 9500€</td>
-    </tr>
-  </tbody>
-</table>
+	<img src="image/tarif.png" class="img-fluid" alt="Responsive image">
 
