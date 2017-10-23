@@ -270,19 +270,8 @@ span {
 	margin-right: 36px;
 }
 
-<<<<<<< HEAD
-/* .table { */
-    /* width: 100%; */
-    /* max-width: 100%; */
-    /* margin-bottom: 1rem; */
-    /* margin-top: 1em; */
-}
 
-/* table-dark, .table-dark>td, .table-dark>th { */
-    /* background-color: #f1d614 ; */
-}
-	
-=======
+
 .accroche		{display : block ;
 				text-align : center ;
 				}
@@ -301,24 +290,24 @@ span {
 				padding-top : 0.8em ;
 				
 				}
-<<<<<<< HEAD
+
 
 .form-control	{
 				height: 3em;
 				margin-bottom: 2em;
 }
-=======
+
 				
 form		{display : block ;
 			margin-left : -20em ; 
 			margin-right : 25em ;
 			margin-top : 3em ;
 			}
->>>>>>> 755653396a0199d3c3f4f6dd88f81fc5aaa8d5bf
+
 
 .myBackgroundImage {
 	/* can change */
-	background-image: url("http://www.planwallpaper.com/static/images/6790904-free-background-wallpaper.jpg");
+	background-image: url("image/mac.jpg");
 	color: red;
 	padding: 100px 0;
 	
