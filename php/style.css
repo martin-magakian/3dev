@@ -55,6 +55,8 @@ header			{    position: absolute;
 	font-family : mosk900
 }
 
+.bandeau-noir 		{background-color : black ; width : 100% ; height : 5em ; margin : 0 ; padding: 0; }
+
 /* bandeau */
 .bandeau {
 	text-align : center ;
