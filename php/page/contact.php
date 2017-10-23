@@ -5,32 +5,32 @@
           <form>
             <div class="row">
               <div class="col">
-                <input type="text" class="form-control" placeholder="First name">
+                <input type="text" class="form-control" placeholder="prénom">
               </div>
               <div class="col">
-                <input type="text" class="form-control" placeholder="Last name">
-              </div>
-            </div>
-
-            <div class="row mt-4">
-              <div class="col">
-                <input type="email" class="form-control" placeholder="Enter email">
+                <input type="text" class="form-control" placeholder="Nom">
               </div>
             </div>
 
             <div class="row mt-4">
               <div class="col">
-                <input type="email" class="form-control"  placeholder="Subject">
+                <input type="email" class="form-control" placeholder="Email">
+              </div>
+            </div>
+
+            <div class="row mt-4">
+              <div class="col">
+                <input type="email" class="form-control"  placeholder="Sujet">
               </div>
             </div>
             <div class="row mt-4">
               <div class="col">
-                <textarea class="form-control" name="message" rows="3" placeholder="How can we help?"></textarea>
+                <textarea class="form-control" name="message" rows="3" placeholder="En quoi pouvons-nous vous aider ?"></textarea>
               </div>
             </div>
             <div class="row mt-4">
               <div class="col">
-                <button type="submit" class="btn">Submit</button>
+                <button type="submit" class="btn">Envoyer</button>
               </div>
             </div>
           </form>
