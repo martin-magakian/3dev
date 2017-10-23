@@ -86,7 +86,7 @@ header			{    position: absolute;
 	background: rgba(0,0,0,0.5);
 	color: white;
 	text-align: center;
-
+	padding-top : 1em ;
     margin-left: 10%;
 }
 .formation 		{ margin : 3em}
@@ -97,8 +97,8 @@ header			{    position: absolute;
 }
 
 
-a 				{text-decoration : none ; }
-
+.plus a 				{text-decoration : none ; color: black; }
+.plus a:hover			{text-decoration : none ; } 
 .plus{
 	 
     display: block;
@@ -110,11 +110,15 @@ a 				{text-decoration : none ; }
     background-color: #f2d500;
     margin-left: -50px;
     margin-top: -27px;
+	
+	
 }
 
-.plus:hover {display: block;
-	text-decoration : none ; 
-    color: #f2d500;
+
+.plus:hover 
+	
+	{display: block;
+	 color: #f2d500;
     text-align: center;
     padding: 1em;
     width: 4em;
@@ -210,3 +214,9 @@ footer a {
 	color : #f2d500 ;
 	text-decoration: none;
 }
+
+.form-control {height : 3em ; 
+				margin-bottom : 6em ; }
+
+label h1		{font-family : mosk600 ; color : #f2d500 } 
+
