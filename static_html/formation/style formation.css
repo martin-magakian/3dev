@@ -34,4 +34,14 @@ span {
 	text-align : left;
 }
 
-
+.monStyle{
+	color : white ;
+	padding : 4em ;
+	margin-top : 4em ;
+	column-gap : 25px ; 
+	height: 300px;
+    width: 300px;
+	text-align : center justify ;
+	font-family : helvetica ;
+	margin-right: 37px;
+}
