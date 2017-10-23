@@ -30,7 +30,7 @@ header			{    position: absolute;
 	display:flex;
 	align-items:center;
 }
-
+	
 .pourquoi_3dev {
 	padding-right: 15%;
     padding-left: 15%;
@@ -247,11 +247,12 @@ span {
 	height : 100px ;
 	width : 100px ;
 	display : block ;
-	max-width: 200%;
-    max-height: 200%;
+	max-width: 100%;
+    max-height: 100%;
     margin: auto auto;
 }
 
+<<<<<<< HEAD
 .spaceline {
 margin-bottom: 100px
 }
@@ -262,9 +263,11 @@ margin-bottom: 100px
     align-items: center;
 }
 
+=======
+>>>>>>> f16f0287d65fcd254c213aeec98b888c6a7323d2
 .forma {
 	font-family : arial;
-	font-size : 20px;
+	font-size : 25px;
 	text-align : left;
 }
 
@@ -280,7 +283,21 @@ margin-bottom: 100px
 	margin-right: 36px;
 }
 
+<<<<<<< HEAD
+/* .table { */
+    /* width: 100%; */
+    /* max-width: 100%; */
+    /* margin-bottom: 1rem; */
+    /* margin-top: 1em; */
+}
 
+/* table-dark, .table-dark>td, .table-dark>th { */
+    /* background-color: #f1d614 ; */
+}
+	
+=======
+
+	
 .accroche		{display : block ;
 				text-align : center ;
 				}
@@ -299,9 +316,13 @@ margin-bottom: 100px
 				padding-top : 0.8em ;
 				
 				}
-				
+
 form		{display : block ;
 			margin-left : -20em ; 
 			margin-right : 25em ;
 			margin-top : 3em ;
+			line-height : 30em ;
 			}
+
+
+>>>>>>> d5c7af70c580e2decec2aaf061e726bc8f001c80
