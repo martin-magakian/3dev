@@ -304,12 +304,10 @@ span {
 				
 				}
 
-form		{display : block ;
-			margin-left : -20em ; 
-			margin-right : 25em ;
-			margin-top : 3em ;
-			line-height : 30em ;
-			}
+.form-control	{
+				height: 3em;
+				margin-bottom: 2em;
+}
 
 
 >>>>>>> d5c7af70c580e2decec2aaf061e726bc8f001c80
