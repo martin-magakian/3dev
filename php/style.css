@@ -265,7 +265,6 @@ footer a {
 
 .myBackgroundImage {
     background-image: url("image/mac.png");
-    background-size: 100%;
     background-repeat: no-repeat;
     margin: auto;
     color: white;
