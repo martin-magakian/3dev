@@ -138,17 +138,17 @@
 			</div>
 		</div>
 		
-		<section class="myBackgroundImage kelly" src="image/tarif.png">
-			<div class="container">
-				<div class="row justify-content-center align-items-center">
-					<div class="col-8" style="text-align: center">
-						<h2>TARIF DE FORMATION</h2>
-						<p>Première année de fomation 9500€</p>
-						<p>Deuxième année de fomation 9500€</p>
-						<p>Troisième année de fomation 9500€</p>
-					</div>
-				</div>
+		<div class="container-fluid bandeautarif">
+		<div class="row">
+			<div class="col"
+				<h1>TARIF DE FORMATION</h1>
+				<p>Première année de fomation 9500€</p>
+				<p>Deuxième année de fomation 9500€</p>
+				<p>Troisième année de fomation 9500€</p>
 			</div>
-		</section>
+		</div>
+	</div>
+		
+
 	
 
