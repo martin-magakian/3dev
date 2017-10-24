@@ -1,5 +1,5 @@
 <!--video-->
-<div data-vide-bg="https://www.ironhack.com/assets/videos/ironhack-video-3" style="height: 700px">
+<div data-vide-bg="https://www.ironhack.com/assets/videos/ironhack-video-3" style="height: 600px">
 	<h1 class="accroche"><span class="T1">&#60&#47Vivre le code></span></h1>
 </div>
 		

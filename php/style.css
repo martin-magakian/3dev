@@ -1,3 +1,4 @@
+
 /* font */ 
 
 @font-face {
@@ -265,15 +266,12 @@ footer a {
 
 
 .myBackgroundImage {
-    background-image: url("image/mac.png");
+    background-image: url("image/formation.png");
     background-repeat: no-repeat;
-    margin: auto;
-    color: white;
-    width: 100%;
-    height: 25em;
-    padding-right: 0px;
-    padding-left: 0px;
-    padding-top: 12em;
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;height: 40em;
 }
 .na {
     display: block;

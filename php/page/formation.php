@@ -1,13 +1,13 @@
 
 		
-	<section class="myBackgroundImage">
-		<div class="container">
+		<div class="myBackgroundImage">
+		</div>
+		<div class="container-fluid">
 			<div class="row justify-content-center align-items-center">
 			  <div class="col-6 " style="text-align: center">
 			  </div>
 			</div>
 		</div>
-	</section>
 	
 	<!--bandeau-->
 	
