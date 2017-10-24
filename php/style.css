@@ -261,20 +261,22 @@ header .navbar-toggler-icon {
 
 /*********************************************************/
 /******************** DEBUT Abonne-toi *******************/
-.form-control {
+#spaceabo {
+    margin-bottom: 8em;
     height: 3em;
-    margin-bottom: 2em;
-    margin-top: 2em;
+}
+#spaceab {
+    display: inline-block;
+    margin-bottom: 2rem;
 }
 label h1 {
     font-family: mosk600;
     color: #f2d500
+
 }
 h1 {
     font-size: 40px;
     text-align: center;
-    padding-top: 2em;
-    padding-bottom: 2em
 }
 /******************* FIN Abonne-toi **********************/
 /*********************************************************/
