@@ -15,7 +15,7 @@
 header			{    position: absolute;
 					width: 100%;
 					z-index: 100;
-					background-color :  rgba(180, 187, 193, 0.38)!important;
+					background-color :  rgba(180, 187, 193, 0.70)!important;
 					 
 					
 				}
@@ -46,7 +46,7 @@ header			{    position: absolute;
 }
 
 .T2 {
-	color : white ;
+	color : black ;
 	font-family : mosk900
 }
 
@@ -338,7 +338,5 @@ form		{display : block ;
     overflow: hidden;
     background-color: #FFFFFF;
 }
-
->>>>>>> 88758f374f3aae6e3bcdbe7ae4da90a7df6602e3
 
 .na 		{display : block ; color: white ; font-family : gros titre ; text-align: center ; }
