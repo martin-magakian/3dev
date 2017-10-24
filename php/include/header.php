@@ -14,9 +14,6 @@
 					<a class="nav-link" href=""></a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="">Projet</a>
-				</li>
-				<li class="nav-item">
 					<a class="nav-link" href="/?page=contact">contact</a>
 				</li>
 			</ul>
