@@ -15,6 +15,7 @@
 header			{    position: absolute;
 					width: 100%;
 					z-index: 100;
+					background-color :  rgba(180, 187, 193, 0.70)!important;
 					 
 					
 				}
