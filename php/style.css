@@ -1,13 +1,12 @@
-
-/* font */ 
-
+/**************************************************/
+/*********************** DEBUT font *********************/ 
 @font-face {
     font-family: mosk600;
     src: url("font/mosk600.ttf");
 }
 @font-face {
-    font-family: mosk700;
-    src: url("font/mosk700.ttf");
+	font-family: mosk700;
+	src: url("font/mosk700.ttf");
 }
 @font-face {
     font-family: mosk800;
@@ -21,9 +20,20 @@
     font-family: gros titre;
     src: url("font/mosk900.ttf");
 }
+/*********************** FIN font ***********************/ 
+/********************************************************/
 
-/* menu */
 
+
+
+
+
+
+
+
+
+/********************************************************/
+/*********************** DEBUT menu *********************/ 
 .nav-link:hover {
     color: yellow;
 }
@@ -31,23 +41,63 @@
     color: white;
     background-attachment: fixed !important;
 }
-
 header {
 	width : 100% ; 
     z-index: 100;
     background-color: rgba(0, 0, 0, 0.7)!important;
 	position : fixed ;  
-	background-color: #FFFFFF; }
-	header .navbar-nav a.nav-link {
-	color: white; }
-	header .navbar-nav a.nav-link:hover {
-	color: yellow; }
-	header .navbar-toggler-icon {
+	background-color: #FFFFFF;
+}
+header .navbar-nav a.nav-link {
+	color: white;
+}
+header .navbar-nav a.nav-link:hover {
+	color: yellow;
+}
+header .navbar-toggler-icon {
 	background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='#444' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E"); 
 }
+@media screen and (max-width:900px) {
+	.col-3{
+		flex: 0 0 50%;
+		max-width: 50%;
+	}
+	.plus{
+		margin-left: 279px;
+		margin-top: -233px;
+	}
+	.plus:hover {
+		margin-left: 279px;
+		margin-top: -233px;
+	}
+	header {
+		position: fixed;
+		background-color: #FFFFFF;
+	}
+	header .navbar-nav a.nav-link {
+		color: white;
+	}
+	header .navbar-nav a.nav-link:hover {
+		color: yellow;
+	}
+	header .navbar-toggler-icon {
+		background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='#444' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+	}
+}
+/*********************** FIN menu ****************************/
+/************************************************************/ 
 
-/* texte vidéo */
 
+
+
+
+
+
+
+
+
+/**************************************************/
+/*********************** DEBUT video *********************/ 
 .accroche {
     width: 100%;
     padding-top: 350px;
@@ -60,8 +110,6 @@ header {
     font-family: gros titre;
     position: fixed;
 }
-
-/* bandeau entre video et texte */
 .bandeau-noir {
     background-color: black;
     width: 100%;
@@ -69,14 +117,24 @@ header {
     margin: 0;
     padding: 0;
 }
+/************************FIN video *******************/
+/************************************************/ 
 
-/* titre pourquoi 3DEV */
 
+
+
+
+
+
+
+
+
+/*****************************************************/
+/*************** DEBUT pourquoi 3DEV *****************/ 
 .center-vertical {
     display: flex;
     align-items: center;
 }
-
 .T1 {
     color: #f2d500;
     font-family: mosk900
@@ -89,9 +147,6 @@ header {
     color: black;
     font-family: mosk900
 }
-
-/* texte pourquoi 3DEV */
-
 .pourquoi_3dev {
     padding-right: 15%;
     padding-left: 15%;
@@ -100,9 +155,20 @@ header {
     font-size: 1.7em;
     text-align: justify;
 }
+/*************** FIN pourquoi 3DEV *****************/ 
+/***********************************************/
 
-/* bandeau jaune */
 
+
+
+
+
+
+
+
+
+/*******************************************************/
+/*************** DEBUT bandeau jaune *******************/ 
 .bandeau {
     text-align: center;
     line-height: 1.2;
@@ -114,7 +180,6 @@ header {
     font-size: 10em;
     padding: none;
     margin: none;
-	;
 }
 .bandeaunumber1 {
     color: black;
@@ -125,9 +190,21 @@ header {
     padding-bottom: 2em;
     text-align: center;
 }
+/***************** FIN bandeau jaune ********************/
+/*******************************************************/
 
-/* intro formation */
 
+
+
+
+
+
+
+
+
+
+/***************************************************/
+/*************** DEBUT intro formation *******************/
 .greybg {
     background: rgba(0, 0, 0, 0.5);
     color: white;
@@ -170,11 +247,20 @@ header {
     margin-left: -50px;
     margin-top: -27px;
 }
+/***************** FIN intro formation *******************/
+/*********************************************************/
 
-/* Slide pas de CSS */
 
-/* Abonne-toi */
 
+
+
+
+
+
+
+
+/*********************************************************/
+/******************** DEBUT Abonne-toi *******************/
 .form-control {
     height: 3em;
     margin-bottom: 2em;
@@ -190,9 +276,20 @@ h1 {
     padding-top: 2em;
     padding-bottom: 2em
 }
+/******************* FIN Abonne-toi **********************/
+/*********************************************************/
 
-/* footer */
 
+
+
+
+
+
+
+
+
+/*********************************************************/
+/******************** DEBUT footer ***********************/
 footer {
     background-color: black;
     height: auto;
@@ -268,12 +365,20 @@ footer a {
     color: #f2d500;
     text-decoration: none;
 }
-
-/* PAGE FORMATION */
-
-/* Photo avec texte */
+/******************** FIN footer *************************/
+/*********************************************************/
 
 
+
+
+
+
+
+
+
+
+/***********************************************************************/
+/************** DEBUT page formation: Photo avec texte *****************/
 .myBackgroundImage {
     background-image: url("image/formation.png");
     background-repeat: no-repeat;
@@ -289,9 +394,6 @@ footer a {
     font-family: gros titre;
     text-align: center;
 }
-
-/*bandeau sous photo*/
-
 .bandeauyellow {
 	
 	display: block ;
@@ -303,9 +405,19 @@ footer a {
 	font-size: 1.5em;
 	padding-top: 1.7em
 }
+/************** FIN page formation: Photo avec texte *******************/
+/***********************************************************************/
 
-/* tabeau page formatin */
 
+
+
+
+
+
+
+
+/***********************************************************************/
+/****************** DEBUT page formation: tabeau ***********************/
 .blackbg {
     background: black
 }
@@ -313,7 +425,6 @@ footer a {
     padding-bottom: 30px;
     padding-top: 5em;
 }
-
 span {
     color: white;
 }
@@ -325,13 +436,11 @@ span {
     max-height: 100%;
     margin: auto auto;
 }
-
 .forma {
     font-family: arial;
     font-size: 25px;
     text-align: left;
 }
-
 @media screen and (max-width: 992px) { 
     .forma {
         text-align: center;
@@ -346,20 +455,28 @@ span {
     display: flex;
     align-items: center;
 }
-
-/* Detail de formation carré */
-
 .monStyle {
     color: white;
 	padding: 3em;
 	margin-top: 3em;
 	font-family: helvetica;
 }
+/****************** FIN page formation: tabeau ***********************/
+/*********************************************************************/
 
-/* tarif */
 
+
+
+
+
+
+
+
+
+
+/***********************************************************************/
+/****************** DEBUT page formation: tarif ***********************/
 .bandeautarif {
-	
 	display: block ; 
 	background-color : #F2D500 ;
 	text-align: center ;
@@ -369,9 +486,19 @@ span {
 	padding : 1em ;
 	margin-bottom : 3em ;
 }
+/****************** FIN page formation: tarif ***********************/
+/*********************************************************************/
 
-/* PAGE CONTACT */
 
+
+
+
+
+
+
+
+/*********************************************************************/
+/********************** DEBUT page contact **************************/
 #map {
     width: 100%;
     height: auto;
@@ -398,83 +525,11 @@ form {
     margin-right: 25em;
     margin-top: 3em;
 }
-
-
 .na {
     display: block;
     color: white;
     font-family: gros titre;
     text-align: center;
 }
-
-
-@media screen and (max-width:900px) {
-	
-<<<<<<< HEAD
-	.greybg{
-		flex: 0 0 50%;
-		max-width: 50%; 
-	}
-	
-	.plus		{
-		margin-left: 279px;
-				margin-top: -233px;}
-	}
-	
-	.plus:hover {
-	
-		margin-left: 279px;
-		margin-top: -233px;
-	}
-		
-	header {
-		position : fixed ;  
-		background-color: #FFFFFF; }
-		header .navbar-nav a.nav-link {
-		color: white; }
-		header .navbar-nav a.nav-link:hover {
-		color: yellow; }
-		header .navbar-toggler-icon {
-		background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='#444' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E"); }
-	}
-				
-				
-	.col-lg-6 col-md-12	{
-		padding-left: 7em;
-		padding-top: 14em;
-	}
-}
- 
-=======
-
-
-.col-3	    {flex: 0 0 50%;
-			max-width: 50%; }
-
-.plus		{margin-left: 279px;
-			margin-top: -233px;}
-}
-
-.plus:hover {
-    margin-left: 279px;
-    margin-top: -233px;
-}
-
-		
-header 	{
-	position : fixed ;  
-	background-color: #FFFFFF;
-}
-
-header .navbar-nav a.nav-link {
-	color: white;
-}
-
-header .navbar-nav a.nav-link:hover {
-	color: yellow;
-}
->>>>>>> 94b4eb36bad24e396fa2ca99db18d80adbab1cc9
-
-header .navbar-toggler-icon {
-	background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='#444' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E"); }
-}
+/*********************************************************************/
+/********************** FIN page contact **************************/
