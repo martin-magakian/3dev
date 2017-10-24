@@ -4,11 +4,20 @@
 		<div class="container">
 			<div class="row justify-content-center align-items-center">
 			  <div class="col-6 " style="text-align: center">
-				<h2 class="titreo">Nos atous chez 3DEV</h2>
 			  </div>
 			</div>
 		</div>
 	</section>
+	
+	<!--bandeau-->
+	
+	<div class="container-fluid bandeauyellow">
+		<div class="row">
+			<div class="col"
+				<h1>Nos Atouts chez 3dev</h1>
+			</div>
+		</div>
+	</div>
 
 	<!--content-->
 		<div class="container-fluid blackbg containerformation">
