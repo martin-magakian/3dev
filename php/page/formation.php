@@ -1,31 +1,15 @@
 
 	
-	<!--<div class="blackbg">
-		<div class="container containerformation">
-		<h1> Nos atouts chez 3DEV </h1>
-		</div>-->
-		
-		<!--image-->
-		
 		<section class="myBackgroundImage">
 		<div class="container">
 			<div class="row justify-content-center align-items-center">
 			  <div class="col-6 " style="text-align: center">
-				<h2>Hello</h2>
+				<h2 class="titreo">Nos Atous</h2>
 			  </div>
 			</div>
 		</div>
 	</section>
-		<!--<section class="myBackgroundImage">
-		<div class="container">
-			<div class="row justify-content-center align-items-center">
-			  <div class="col-6 " style="text-align: center">
-				<h2>Hello</h2>
-			  </div>
-			</div>
-		</div>
-	</section>
-	-->
+
 	<!--content-->
             <div class="row">
                 <div class="col-lg-6 spaceline">

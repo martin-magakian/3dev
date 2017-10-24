@@ -271,11 +271,10 @@ span {
 	margin-right: 36px;
 }
 
-<<<<<<< HEAD
-=======
 
 
->>>>>>> 88758f374f3aae6e3bcdbe7ae4da90a7df6602e3
+
+
 .accroche		{display : block ;
 				text-align : center ;
 				}
@@ -310,19 +309,19 @@ form		{display : block ;
 
 
 .myBackgroundImage {
-<<<<<<< HEAD
+
 	background-image: url("image/mac.png");
 	background-size: 100%;
 	background-repeat: no-repeat;
 	margin:auto;
 	color: white;
 	 width: 100%;
-	height: 25em ;
+	height: 35em ;
 	padding-right: 0px;
     padding-left: 0px;
 	padding-top: 12em;
 	}
-=======
+
 	/* can change */
 	background-image: url("image/mac.jpg");
 	color: red;
@@ -339,6 +338,6 @@ form		{display : block ;
     background-color: #FFFFFF;
 }
 
->>>>>>> 88758f374f3aae6e3bcdbe7ae4da90a7df6602e3
-
 .na 		{display : block ; color: white ; font-family : gros titre ; text-align: center ; }
+
+
