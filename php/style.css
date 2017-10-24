@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 /* photo */
+=======
+/* font */
+
+>>>>>>> 7126c3da867fb27f351ec08f91d45b3835a714c1
 @font-face {
     font-family: mosk600;
     src: url("font/mosk600.ttf");
@@ -19,6 +24,9 @@
     font-family: gros titre;
     src: url("font/mosk900.ttf");
 }
+
+/* menu */
+
 .nav-link:hover {
     color: yellow;
 }
@@ -32,23 +40,37 @@ header {
     z-index: 100;
     background-color: rgba(180, 187, 193, 0.70)!important;
 }
+
+/* texte vidéo */
 .accroche {
     width: 100%;
     padding-top: 350px;
+    display: block;
     text-align: center;
 }
+.titre {
+    display: block;
+    color: white;
+    font-family: gros titre;
+    position: fixed;
+}
+
+/* bandeau entre video et texte */
+.bandeau-noir {
+    background-color: black;
+    width: 100%;
+    height: 5em;
+    margin: 0;
+    padding: 0;
+}
+
+/* titre pourquoi 3DEV */
+
 .center-vertical {
     display: flex;
     align-items: center;
 }
-.pourquoi_3dev {
-    padding-right: 15%;
-    padding-left: 15%;
-    text-align: left;
-    font-family: helvetica;
-    font-size: 1.7em;
-    text-align: justify;
-}
+
 .T1 {
     color: #f2d500;
     font-family: mosk900
@@ -61,14 +83,20 @@ header {
     color: black;
     font-family: mosk900
 }
-.bandeau-noir {
-    background-color: black;
-    width: 100%;
-    height: 5em;
-    margin: 0;
-    padding: 0;
+
+/* texte pourquoi 3DEV */
+
+.pourquoi_3dev {
+    padding-right: 15%;
+    padding-left: 15%;
+    text-align: left;
+    font-family: helvetica;
+    font-size: 1.7em;
+    text-align: justify;
 }
-/* bandeau */
+
+
+/* bandeau jaune */
 
 .bandeau {
     text-align: center;
@@ -91,7 +119,8 @@ header {
     padding-bottom: 2em;
     text-align: center;
 }
-/* formation */
+
+/* intro formation */
 
 .greybg {
     background: rgba(0, 0, 0, 0.5);
@@ -135,6 +164,27 @@ header {
     margin-left: -50px;
     margin-top: -27px;
 }
+
+/* Slide pas de CSS */
+
+/* Abonne-toi */
+
+.form-control {
+    height: 3em;
+    margin-bottom: 2em;
+    margin-top: 2em;
+}
+label h1 {
+    font-family: mosk600;
+    color: #f2d500
+}
+h1 {
+    font-size: 40px;
+    text-align: center;
+    padding-top: 2em;
+    padding-bottom: 2em
+}
+
 /* footer */
 
 footer {
@@ -212,28 +262,39 @@ footer a {
     color: #f2d500;
     text-decoration: none;
 }
-.form-control {
-    height: 3em;
-    margin-bottom: 2em;
-    margin-top: 2em;
+
+/* PAGE FORMATION */
+
+/* Photo avec texte */
+
+.myBackgroundImage {
+    background-image: url("image/mac.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin: auto;
+    color: white;
+    width: 100%;
+    height: 35em;
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-top: 12em;
 }
-label h1 {
-    font-family: mosk600;
-    color: #f2d500
+.na {
+    display: block;
+    color: white;
+    font-family: gros titre;
+    text-align: center;
 }
+
+/* tabeau page formatin */
+
 .blackbg {
     background: black
 }
 .containerformation {
     padding-bottom: 30px;
 }
-h1 {
-    font-size: 40px;
-    color: white;
-    text-align: center;
-    padding-top: 2em;
-    padding-bottom: 2em
-}
+
 span {
     color: white;
 }
@@ -257,6 +318,9 @@ span {
     display: flex;
     align-items: center;
 }
+
+/* Detail de formation carré */
+
 .monStyle {
     color: white;
     padding: 4em;
@@ -268,16 +332,9 @@ span {
     font-family: helvetica;
     margin-right: 36px;
 }
-.accroche {
-    display: block;
-    text-align: center;
-}
-.titre {
-    display: block;
-    color: white;
-    font-family: gros titre;
-    position: fixed;
-}
+
+/* PAGE CONTACT */
+
 #map {
     width: 100%;
     height: auto;
@@ -295,7 +352,7 @@ span {
     padding-top: 0.8em;
 }
 .form-control {
-    height: 3em;
+    height: 2em;
     margin-bottom: 2em;
 }
 form {
@@ -304,6 +361,7 @@ form {
     margin-right: 25em;
     margin-top: 3em;
 }
+<<<<<<< HEAD
 .myBackgroundImage {
     background-image: url("image/mac.png");
     background-size: 100%;
@@ -590,3 +648,5 @@ header + header {
 
 table tr.no-border th, table tr.no-border td {
   border-top: 0; }
+=======
+>>>>>>> 7126c3da867fb27f351ec08f91d45b3835a714c1

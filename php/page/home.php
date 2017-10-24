@@ -68,7 +68,7 @@
 			</div>
 			<div class="col-3">
 				<div class="plus">
-					<a id="plus" href="index/formation.html">+</a>
+					<a id="plus" href="/?page=formation">+</a>
 				</div>
 			</div>
 		</div>
