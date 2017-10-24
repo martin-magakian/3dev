@@ -7,26 +7,26 @@
         <div class="col">
 			<input type="text" class="form-control" placeholder="prénom">
 		</div>
-        <div class="col">
+        <div class="col nom">
 			<input type="text" class="form-control" placeholder="Nom">
         </div>        
     </div>
-	<div class="row">
+	<div class="row email">
         <div class="col">
 			<input type="email" class="form-control" placeholder="Email">
 		</div>       
     </div>
-	<div class="row">
+	<div class="row sujet">
         <div class="col">
 			<input type="email" class="form-control"  placeholder="Sujet">
 		</div>       
     </div>
-	<div class="row">
+	<div class="row aide">
         <div class="col">
 			<textarea class="form-control" name="message" rows="3" placeholder="En quoi pouvons-nous vous aider ?"></textarea>
 		</div>       
     </div>
-	<div class="row">
+	<div class="row envoyer">
 		<div class="col">
 		<button type="submit" class="btn">Envoyer</button>
 		</div>

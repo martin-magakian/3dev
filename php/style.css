@@ -535,7 +535,23 @@ form {
     text-align: center;
 }
 .btn {
-	margin-bottom: 2em;
+	margin-bottom: 3em;
 }
+.nom {
+	margin-top: 0em;
+}
+.email {
+	margin-top: -3em;
+}
+.aide {
+	margin-top: -3em;
+}
+.envoyer {
+	margin-top: 1em;
+}
+.sujet {
+	margin-top: -3em;
+}
+
 /*********************************************************************/
 /********************** FIN page contact **************************/
