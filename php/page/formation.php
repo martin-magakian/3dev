@@ -1,17 +1,6 @@
 
-	
-<<<<<<< HEAD
-		<section class="myBackgroundImage">
-=======
-	<!--<div class="blackbg">
-		<div class="container containerformation">
-		<h1> Nos atouts chez 3DEV </h1>
-		</div>-->
-		
-		<!--image-->
 		
 	<section class="myBackgroundImage">
->>>>>>> 79286000e4a699a8701e30406f1283ef1240ef33
 		<div class="container">
 			<div class="row justify-content-center align-items-center">
 			  <div class="col-6 " style="text-align: center">
@@ -128,7 +117,7 @@
 			</div>
 		</div>
 		
-				<div class="container">
+		<div class="container">
 			<div class="row"  style="background-color: white">
 				<div class="col monStyle" style="background-color: black">
 					<H3>PEDAGODIE BOOTCAMPUS</h3>
@@ -138,7 +127,7 @@
 					   molupiet, utas vidi dit autas</p>
 				</div>
 				<div class="col monStyle" style="background-color: black">
-					<H3>LE RYTHME DE TRAVAIL</h3>
+					<h3>LE RYTHME DE TRAVAIL</h3>
 					<p>Emoluptaqui di tet ut re non et repernatus, imet ullaceaqui conse volupta ssecte
 					   invellaccus. Emoluptaqui di tet ut re non et repernatus, imet ullaceaqui conse volupta 
 					   ssecte esequae esequae que vitatus sequam laborrorrum et ullibus abo. Nam alictur aut 
