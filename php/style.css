@@ -259,6 +259,15 @@ span {
 	text-align : left;
 }
 
+.spaceline {
+margin-bottom: 100px
+}
+
+.vcenter {
+	display: flex;
+    align-items: center;
+}
+
 .monStyle{
 	color : white ;
 	padding : 4em ;
@@ -271,11 +280,6 @@ span {
 	margin-right: 36px;
 }
 
-<<<<<<< HEAD
-=======
-
-
->>>>>>> 88758f374f3aae6e3bcdbe7ae4da90a7df6602e3
 .accroche		{display : block ;
 				text-align : center ;
 				}
@@ -310,7 +314,6 @@ form		{display : block ;
 
 
 .myBackgroundImage {
-<<<<<<< HEAD
 	background-image: url("image/mac.png");
 	background-size: 100%;
 	background-repeat: no-repeat;
@@ -321,14 +324,7 @@ form		{display : block ;
 	padding-right: 0px;
     padding-left: 0px;
 	padding-top: 12em;
-	}
-=======
-	/* can change */
-	background-image: url("image/mac.jpg");
-	color: red;
 	padding: 100px 0;
-	
-	/* don't change */
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     text-rendering: optimizelegibility;
