@@ -531,5 +531,8 @@ form {
     font-family: gros titre;
     text-align: center;
 }
+.btn {
+	margin-bottom: 2em;
+}
 /*********************************************************************/
 /********************** FIN page contact **************************/
