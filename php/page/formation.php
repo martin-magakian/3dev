@@ -110,15 +110,13 @@
 					<H3>LA RENTRER</h3>
 					<p>Emoluptaqui di tet ut re non et repernatus, imet ullaceaqui conse volupta ssecte
 					   invellaccus. Emoluptaqui di tet ut re non et repernatus, imet ullaceaqui conse volupta 
-					   ssecte esequae esequae que vitatus sequam laborrorrum et ullibus abo. Nam alictur aut 
-					   molupiet, utas vidi dit autas</p>
+					   ssecte esequae esequae que vitatus sequam laborrorrum et ullibus abo.</p>
 				</div>
 				<div class="col monStyle" style="background-color: black">
 					<H3>NOS PROF' CONNECTER</h3>
 					<p>Emoluptaqui di tet ut re non et repernatus, imet ullaceaqui conse volupta ssecte
 					   invellaccus. Emoluptaqui di tet ut re non et repernatus, imet ullaceaqui conse volupta 
-					   ssecte esequae esequae que vitatus sequam laborrorrum et ullibus abo. Nam alictur aut 
-					   molupiet, utas vidi dit autas</p>
+					   ssecte esequae esequae que vitatus sequam laborrorrum et ullibus abo.</p>
 				</div> 
 			</div>
 		</div>
@@ -129,15 +127,13 @@
 					<H3>PEDAGODIE BOOTCAMPUS</h3>
 					<p>Emoluptaqui di tet ut re non et repernatus, imet ullaceaqui conse volupta ssecte
 					   invellaccus. Emoluptaqui di tet ut re non et repernatus, imet ullaceaqui conse volupta 
-					   ssecte esequae esequae que vitatus sequam laborrorrum et ullibus abo. Nam alictur aut 
-					   molupiet, utas vidi dit autas</p>
+					   ssecte esequae esequae que vitatus sequam laborrorrum et ullibus abo.</p>
 				</div>
 				<div class="col monStyle" style="background-color: black">
 					<h3>LE RYTHME DE TRAVAIL</h3>
 					<p>Emoluptaqui di tet ut re non et repernatus, imet ullaceaqui conse volupta ssecte
 					   invellaccus. Emoluptaqui di tet ut re non et repernatus, imet ullaceaqui conse volupta 
-					   ssecte esequae esequae que vitatus sequam laborrorrum et ullibus abo. Nam alictur aut 
-					   molupiet, utas vidi dit autas</p>
+					   ssecte esequae esequae que vitatus sequam laborrorrum et ullibus abo.</p>
 				</div> 
 			</div>
 		</div>
