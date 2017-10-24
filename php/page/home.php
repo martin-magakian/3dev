@@ -254,8 +254,8 @@
 		<div class="col-4">
 		</div>
 		<div class="col-4" align="center">
-			<label for="exampleFormControlInput1"><h1>Abonne toi ! </h1></label>
-			<input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+			<label for="exampleFormControlInput1" id="spaceab"><h1>Abonne toi ! </h1></label>
+			<input type="email" class="form-control" id="spaceabo" placeholder="name@example.com">
 		</div>
 		<div class="col-4">
 		</div>

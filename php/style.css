@@ -284,10 +284,13 @@ header .navbar-toggler-icon {
 
 /*********************************************************/
 /******************** DEBUT Abonne-toi *******************/
-.form-control {
+#spaceabo {
+    margin-bottom: 8em;
     height: 3em;
-    margin-bottom: 2em;
-    margin-top: 2em;
+}
+#spaceab {
+    display: inline-block;
+    margin-bottom: 2rem;
 }
 label h1 {
     font-family: mosk600;
@@ -296,8 +299,6 @@ label h1 {
 h1 {
     font-size: 40px;
     text-align: center;
-    padding-top: 2em;
-    padding-bottom: 2em
 }
 /******************* FIN Abonne-toi **********************/
 /*********************************************************/
@@ -526,6 +527,9 @@ span {
     width: 100%;
     height: auto;
 }
+iframe {
+		height: 1000px;
+}
 .bandeaujaune {
     display: block;
     background-color: rgb(242, 213, 0);
@@ -554,5 +558,24 @@ form {
     font-family: gros titre;
     text-align: center;
 }
+.btn {
+	margin-bottom: 3em;
+}
+.nom {
+	margin-top: 0em;
+}
+.email {
+	margin-top: -3em;
+}
+.aide {
+	margin-top: -3em;
+}
+.envoyer {
+	margin-top: 1em;
+}
+.sujet {
+	margin-top: -3em;
+}
+
 /*********************************************************************/
 /********************** FIN page contact **************************/
