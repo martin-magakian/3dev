@@ -15,7 +15,6 @@
 header			{    position: absolute;
 					width: 100%;
 					z-index: 100;
-					background-color :  rgba(180, 187, 193, 0.38)!important;
 					 
 					
 				}
@@ -46,7 +45,7 @@ header			{    position: absolute;
 }
 
 .T2 {
-	color : white ;
+	color : black ;
 	font-family : mosk900
 }
 
@@ -259,6 +258,15 @@ span {
 	text-align : left;
 }
 
+.spaceline {
+margin-bottom: 100px
+}
+
+.vcenter {
+	display: flex;
+    align-items: center;
+}
+
 .monStyle{
 	color : white ;
 	padding : 4em ;
@@ -271,10 +279,13 @@ span {
 	margin-right: 36px;
 }
 
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> 79286000e4a699a8701e30406f1283ef1240ef33
 .accroche		{display : block ;
 				text-align : center ;
 				}
@@ -309,7 +320,10 @@ form		{display : block ;
 
 
 .myBackgroundImage {
+<<<<<<< HEAD
 
+=======
+>>>>>>> 79286000e4a699a8701e30406f1283ef1240ef33
 	background-image: url("image/mac.png");
 	background-size: 100%;
 	background-repeat: no-repeat;
@@ -320,14 +334,15 @@ form		{display : block ;
 	padding-right: 0px;
     padding-left: 0px;
 	padding-top: 12em;
+<<<<<<< HEAD
 	}
 
 	/* can change */
 	background-image: url("image/mac.jpg");
 	color: red;
+=======
+>>>>>>> 79286000e4a699a8701e30406f1283ef1240ef33
 	padding: 100px 0;
-	
-	/* don't change */
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     text-rendering: optimizelegibility;
