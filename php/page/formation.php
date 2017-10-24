@@ -7,7 +7,7 @@
 		
 		<!--image-->
 		
-		<section class="myBackgroundImage">
+	<section class="myBackgroundImage">
 		<div class="container">
 			<div class="row justify-content-center align-items-center">
 			  <div class="col-6 " style="text-align: center">
@@ -27,6 +27,12 @@
 	</section>
 	-->
 	<!--content-->
+		<div class="container-fluid blackbg containerformation">
+			<div class="row">
+				<div class="col">
+					<h1> Nos atouts chez 3DEV </h1>
+				</div>
+			</div>
             <div class="row">
                 <div class="col-lg-6 spaceline">
 					<div class="row">
@@ -53,7 +59,7 @@
 					</div>   
                 </div>
             </div>
-			 <div class="row">
+			<div class="row">
                 <div class="col-lg-6 spaceline">
 					<div class="row">
 						<div class="col-lg-4">
@@ -79,7 +85,7 @@
 					</div>   
                 </div>
             </div>
-			 <div class="row">
+			<div class="row">
                 <div class="col-lg-6 spaceline">
 					<div class="row">
 						<div class="col-lg-4">
@@ -107,8 +113,6 @@
             </div>
             <!--/.row--> 
         </div>
-        <!--/.container--> 
-	</div>
 
 	<div class="container">
 			<div class="row"  style="background-color: white">
