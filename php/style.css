@@ -325,10 +325,19 @@ span {
     max-height: 100%;
     margin: auto auto;
 }
+
 .forma {
     font-family: arial;
     font-size: 25px;
     text-align: left;
+}
+
+@media screen and (max-width: 992px) { 
+    .forma {
+        text-align: center;
+        width: 100%;
+        padding-top: 20px;
+    }
 }
 .spaceline {
     margin-bottom: 100px
@@ -399,9 +408,9 @@ form {
 }
 
 
-
 @media screen and (max-width:900px) {
 	
+<<<<<<< HEAD
 	.greybg{
 		flex: 0 0 50%;
 		max-width: 50%; 
@@ -436,4 +445,36 @@ form {
 	}
 }
  
+=======
 
+
+.col-3	    {flex: 0 0 50%;
+			max-width: 50%; }
+
+.plus		{margin-left: 279px;
+			margin-top: -233px;}
+}
+
+.plus:hover {
+    margin-left: 279px;
+    margin-top: -233px;
+}
+
+		
+header 	{
+	position : fixed ;  
+	background-color: #FFFFFF;
+}
+
+header .navbar-nav a.nav-link {
+	color: white;
+}
+
+header .navbar-nav a.nav-link:hover {
+	color: yellow;
+}
+>>>>>>> 94b4eb36bad24e396fa2ca99db18d80adbab1cc9
+
+header .navbar-toggler-icon {
+	background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='#444' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E"); }
+}
