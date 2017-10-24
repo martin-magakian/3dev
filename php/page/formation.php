@@ -138,5 +138,17 @@
 			</div>
 		</div>
 		
-	<img src="image/tarif.png" class="img-fluid" alt="Responsive image">
+		<section class="myBackgroundImage kelly" src="image/tarif.png">
+			<div class="container">
+				<div class="row justify-content-center align-items-center">
+					<div class="col-8" style="text-align: center">
+						<h2>TARIF DE FORMATION</h2>
+						<p>Première année de fomation 9500€</p>
+						<p>Deuxième année de fomation 9500€</p>
+						<p>Troisième année de fomation 9500€</p>
+					</div>
+				</div>
+			</div>
+		</section>
+	
 

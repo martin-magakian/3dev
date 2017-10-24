@@ -339,6 +339,13 @@ span {
 
 /* tarif */
 
+.kelly {
+	width : 100% ;
+	padding : 0 ;
+	margin : 0 ;
+    background-image: url("image/tarif.png");
+    background-repeat: no-repeat;
+}  
 
 /* PAGE CONTACT */
 
