@@ -155,7 +155,7 @@
 		<span class="sr-only">Next</span>
 	</a>
 </div>-->
-<h1 style="text-align: center ; color: black;">LES PROJETS</h1>
+<h1 class="projet">LES PROJETS</h1>
 <div id="carouselExampleIndicators2" class="carousel slide " data-ride="carousel">
   <ol class="carousel-indicators">
     <li data-target="#carouselExampleIndicators2" data-slide-to="0" class="active"></li>
