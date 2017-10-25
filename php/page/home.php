@@ -133,7 +133,7 @@
 				</div>
 			</div>	
 		</div>
-		<!--<div class="carousel-item">
+		<div class="carousel-item">
 			<div class="d-block w-100" alt="third slide">
 				<div class="container-fluid">	
 					<div class="row">
@@ -158,7 +158,7 @@
 					</div>
 				</div>
 			</div>	
-		</div>-->
+		</div>
 	
 	<a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
 		<span class="carousel-control-prev-icon" aria-hidden="true"></span>
