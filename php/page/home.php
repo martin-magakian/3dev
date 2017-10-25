@@ -55,9 +55,18 @@
 </div>
 	
 	
-<!-- video 2 -->
-
-<div data-vide-bg="image/ordicafe" style="height: 700px">
+<!-- photo-->
+<section class="imagebackground">
+		<div class="container">
+			<div class="row justify-content-center align-items-center">
+			  <div class="col-6 " style="text-align: center">
+				<h2>Hello</h2>
+			  </div>
+			</div>
+		</div>
+	</section>
+<!--video-->
+<!--<div data-vide-bg="image/ordicafe" style="height: 700px">
 	<div class="container-fluid">
 		<div class="row flying_video_popup">
 			<div class="col-3 greybg">
@@ -73,7 +82,7 @@
 			</div>
 		</div>
 	</div>
-</div>
+</div>-->
 
 
 <!--slide avis étudiant créer-->

@@ -205,7 +205,25 @@ header .navbar-toggler-icon {
 
 /***************************************************/
 /*************** DEBUT intro formation *******************/
-.greybg {
+
+.imagebackground {
+    /* can change */
+    height: 40em;
+    background-image: url("image/photo.jpg");
+    color: red;
+    padding: 100px 0;
+    
+    /* don't change */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizelegibility;
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+    background-color: #FFFFFF;
+}
+/*.greybg {
     background: rgba(0, 0, 0, 0.5);
     color: white;
     text-align: center;
@@ -245,7 +263,7 @@ header .navbar-toggler-icon {
     height: 4em;
     background-color: white;
     margin-left: -50px;
-    margin-top: -27px;
+    margin-top: -27px;*/
 }
 /***************** FIN intro formation *******************/
 /*********************************************************/
