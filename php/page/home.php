@@ -77,37 +77,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
 	<ol class="carousel-indicators">
 		<li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -154,40 +123,6 @@
 		<span class="sr-only">Next</span>
 	</a>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -257,7 +192,9 @@
 			<label for="exampleFormControlInput1" id="spaceab"><h1>Abonne toi ! </h1></label>
 			<input type="email" class="form-control" id="spaceabo" placeholder="name@example.com">
 		</div>
-		<div class="col-4">
+		<div class="col btnhome">
+		<button type="submit" class="btn">Envoyer</button>
 		</div>
+	</div>
   </div>
 </div>
