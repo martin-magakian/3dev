@@ -308,6 +308,16 @@ header .navbar-toggler-icon {
     margin-left: 12.5em;
     margin-top: -7em;
 }
+.plus:hover {
+    display: block;
+    background-color: white;
+    color: #f2d500;
+    width: 2em;
+    height: 2em;
+    padding-top: 0.3em;
+    margin-left: 12.5em;
+    margin-top: -7em;
+}
 .projet {
     margin-top: 2em;
     text-align: center;
@@ -315,7 +325,7 @@ header .navbar-toggler-icon {
     font-size: 4em;
     font-family: mosk900;
 }
-@media screen and (max-width:1200px) {
+    @media screen and (max-width:1200px) {
 .plus {
     display: block;
     background-color: #f2d500;
@@ -326,20 +336,40 @@ header .navbar-toggler-icon {
     margin-left: 10.5em;
     margin-top: -7em;
 }
+.plus:hover {
+    display: block;
+    background-color: white;
+    color: #f2d500;
+    width: 2em;
+    height: 2em;
+    padding-top: -1em;
+    margin-left: 10.5em;
+    margin-top: -7em;
 }
-@media screen and (max-width:990px) {
+}
+    @media screen and (max-width:990px) {
     .plus {
     display: block;
     background-color: #f2d500;
     width: 2em;
     height: 2em;
     padding-top: 0.3em;
-    margin-right: -1em;
-    margin-left: 7.5em;
-    margin-top: -8em;
+    margin-right: 0em;
+    margin-left: 15.5em;
+    margin-top: -7em;
+}
+.plus:hover {
+    display: block;
+    background-color: white;
+    color: #f2d500;
+    width: 2em;
+    height: 2em;
+    padding-top: 0em;
+    margin-left: 15.5em;
+    margin-top: -7em;
 }
 }
-@media screen and (max-width: 770px) {
+    @media screen and (max-width: 770px) {
 .plus {
     display: block;
     background-color: #f2d500;
@@ -347,22 +377,65 @@ header .navbar-toggler-icon {
     height: 2em;
     padding-top: 0.3em;
     margin-right: -1em;
-    margin-left: 5.5em;
-    margin-top: -10em;
+    margin-left: 11.5em;
+    margin-top: -7em;
 }
-}
-@media screen and (max-width: 520px){
-.plus {
+.plus:hover {
     display: block;
+    background-color: white;
+    color: #f2d500;
+    width: 2em;
+    height: 2em;
+    padding-top: 0.3em;
+    margin-left: 11.5em;
+    margin-top: -7em;
+}
+}
+    @media screen and (max-width: 520px){
+.plus {
+     display: block;
     background-color: #f2d500;
-    width: 5.3em;
-    height: 2.em;
+    width: 11.3em;
+    height: 2em;
     padding-top: 0.3em;
     margin-right: -1em;
     margin-left: 0.39em;
-    margin-top: -11.2em;
+    margin-top: -7.9em;
+}
+.plus:hover {
+    display: block;
+    background-color: white;
+    color: #f2d500;
+    width: 11.3em;
+    height: 2em;
+    padding-top: 0.3em;
+    margin-left: 0.39em;
+    margin-top: -7.9em;
 }
 }
+    @media screen and (max-width: 320px){
+.plus {
+    display: block;
+    background-color: #f2d500;
+    width: 6.7em;
+    height: 2em;
+    padding-top: 0.3em;
+    margin-right: -1em;
+    margin-left: 0.39em;
+    margin-top: -10.5em;
+}
+.plus:hover {
+    display: #f2d500;
+    background-color: white;
+    width: 6.7em;
+    height: 2em;
+    padding-top: 0.3em;
+    margin-right: -1em;
+    margin-left: 0.39em;
+    margin-top: -10.5em;
+}
+}
+
 /*********************************************************/
 /*****************FIN PROJET ****************************/
 
@@ -385,17 +458,6 @@ header .navbar-toggler-icon {
                  padding: 1em;
                  margin-top: 4em;
                  background-color: rgba(0,0,0,0.5);
-}
-
-.titre-photo:hover {
-                
-                 color: white;
-                 font-family: mosk600;
-                 font-size: 1.5em;
-                 text-align: center;
-                 padding: 1em;
-                 margin-top: 4em;
-                 background-color: black;
 }
 .imagebackground {
     /* can change */
