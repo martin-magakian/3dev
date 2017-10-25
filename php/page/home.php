@@ -55,9 +55,21 @@
 </div>
 	
 	
-<!-- video 2 -->
-
-<div data-vide-bg="image/ordicafe" style="height: 700px">
+<!-- photo-->
+<section class="imagebackground">
+		<div class="container">
+			<div class="row justify-content-center align-items-center">
+			  <div class="col-6 " style="text-align: center">
+				<h2 class="titre-photo"<br>Rentrée en septembre</br><br>Pédagogie Bootcamp</br><br>Rythme de ravail intensif</br><br>Pro liés au monde du travail</br></h2>
+				<div class="row">
+					<h1 class="plus">+</h1>
+			  </div>
+			</div>
+		</div>
+	</div>
+	</section>
+<!--video-->
+<!--<div data-vide-bg="image/ordicafe" style="height: 700px">
 	<div class="container-fluid">
 		<div class="row flying_video_popup">
 			<div class="col-3 greybg">
@@ -73,7 +85,7 @@
 			</div>
 		</div>
 	</div>
-</div>
+</div>-->
 
 
 <!--slide avis étudiant créer-->
@@ -91,8 +103,10 @@
 							<img src="image/slide/popo.png" style="height : 75% ;" class="img-fluid popo" alt="Responsive image">
 						</div>
 						<div class="col Texteslide">
-							<p class="kelly" >Emodicil inimil ipicid que nosa dolupta ernatibea quae vera voluptatur, sa venet omnim eaquas delenecte exceprehendi dolest ea am inum, nonet lautatur? Orrum reperes tibuscime sunte sit facearchil im ist ea sinctemporem is doluptatem in plab int, odionsequam num hillo te ex et ipiendita conseque nimoloris est alitibera aspersp edignimus dero eatiore molupta parum quaeri acipiendis eum digendus et iusda que pedis inciist, ut eaquibusa dolut in pa volupta quidescimpor si volorem ra voluptat.
-							Optae nos pro cupta volupta dolores eriatus ideliae etur, esti quatis vend</p>
+							<div class="fille"><h4>Comment se déroule un projet ?</h4>
+							<br /><br />
+							<p>Nous analysons les besoins du client pour réaliser une proposition technique. Si cette proposition est acceptée, on organise une réunion Kick-off pour  lancer le projet. On commence par travailler l’ergonomie, puis la création graphique, et enfin le développement et l’intégration graphique. Puis nous réalisons une série de tests sous différents environnements (différents navigateurs, tailles d’écrans, différents appareils comme les tablettes et mobiles) . Pour finir nous présentons le projet au client qui valide ou qui demande éventuellement des retouches.</p>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -106,23 +120,31 @@
 							<img src="image/slide/slydephoto12.png" style="height : 75% ;" class="img-fluid popo" alt="Responsive image">
 						</div>
 						<div class="col Texteslide">
-							<p class="kelly" >Emodicil inimil ipicid que nosa dolupta ernatibea quae vera voluptatur, sa venet omnim eaquas delenecte exceprehendi dolest ea am inum, nonet lautatur? Orrum reperes tibuscime sunte sit facearchil im ist ea sinctemporem is doluptatem in plab int, odionsequam num hillo te ex et ipiendita conseque nimoloris est alitibera aspersp edignimus dero eatiore molupta parum quaeri acipiendis eum digendus et iusda que pedis inciist, ut eaquibusa dolut in pa volupta quidescimpor si volorem ra voluptat.
-							Optae nos pro cupta volupta dolores eriatus ideliae etur, esti quatis vend</p>
-						</div>
+							<div class="mec"><h4>Quelle est la plus grosse difficulté dans ce métier ?</h4>
+											<br /><br />
+							                <p>Il faut être patient et serein. Parfois on est face à une difficulté et 
+											les choses ne fonctionnent pas alors qu’on est sûr qu’on a tout bien fait. Il faut 
+											savoir prendre du recul sur son travail.</p>
+							</div>
+						</div>	
 					</div>
 				</div>
 			</div>	
 		</div>
-				<div class="carousel-item">
+		<div class="carousel-item">
 			<div class="d-block w-100" alt="third slide">
 				<div class="container-fluid">	
 					<div class="row">
-						<div class="col popo">
+						<div class="col plp">
 							<img src="image/slide/slydephoto13.png" style="height : 75% ;" class="img-fluid popo" alt="Responsive image">
 						</div>
 						<div class="col Texteslide">
-							<p class="kelly" >Emodicil inimil ipicid que nosa dolupta ernatibea quae vera voluptatur, sa venet omnim eaquas delenecte exceprehendi dolest ea am inum, nonet lautatur? Orrum reperes tibuscime sunte sit facearchil im ist ea sinctemporem is doluptatem in plab int, odionsequam num hillo te ex et ipiendita conseque nimoloris est alitibera aspersp edignimus dero eatiore molupta parum quaeri acipiendis eum digendus et iusda que pedis inciist, ut eaquibusa dolut in pa volupta quidescimpor si volorem ra voluptat.
-							Optae nos pro cupta volupta dolores eriatus ideliae etur, esti quatis vend</p>
+							<div class="etud"> <h4>comment voyez-vous ce métier dans quelques années ?</h4>
+												<br /><br />
+												<p>A mon avis le métier de développeur va se démocratiser, il y a besoin de développeurs dans tout 
+												les secteurs d’activité. Tout comme le “webmaster” des années 2000 qui faisait à lui tout seul design, 
+												ergonomie, développement et intégration, et qui s’est transformé en autant de métiers différents, le développeur 
+												web se spécialiseras d'avantage à l’avenir.</p></div>
 						</div>
 					</div>
 				</div>
