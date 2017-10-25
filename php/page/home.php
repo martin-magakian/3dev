@@ -7,8 +7,8 @@
 <div class="container-fluid bandeau-noir " style="background-color : black">
 </div>
 
-<!-- pourquoi ? -->
-<div>
+ <!--pourquoi ?--> 
+<div class="container-fluid">
 	<div class="row">
 		<div class="col-lg-6 col-md-12">
 			<img src="image/photogrp.png" class="img-fluid fullsizeimg" alt="Responsive image">
@@ -184,6 +184,11 @@
 
 		</div>
 	</div>
+</div>
+
+	</div>
+
+</div>
 </div>
 
 
