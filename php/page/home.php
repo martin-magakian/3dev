@@ -175,24 +175,17 @@
 		</div>
 		<div class="col-4" align="center">
 			<label for="exampleFormControlInput1" id="spaceab"><h1>Abonne toi ! </h1></label>
-<<<<<<< HEAD
+
     		<div class="input-group spacebtn">
       			<input type="text" class="form-control" placeholder="name@example.com" aria-label="Search for...">
       			<span class="input-group-btn">
         			<button class="btn btn-secondary" type="button">Go!</button>
       			</span>
   			</div>
-=======
-			<input type="email" class="form-control" id="spaceabo" placeholder="name@example.com">
-		</div>
-		<div class="col btnhome">
-		<button type="submit" class="btn homebtn">Envoyer</button>
->>>>>>> dacd6c84c2a9bc623d9427bd84e8a74c53ba6af6
-		</div>
 	</div>
+
 </div>
-
-
+</div>
 
 
 <!-- <label for="exampleFormControlInput1" id="spaceab"><h1>Abonne toi ! </h1></label>
