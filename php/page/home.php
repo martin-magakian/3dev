@@ -1,13 +1,12 @@
 <!--video-->
+
 <div data-vide-bg="https://www.ironhack.com/assets/videos/ironhack-video-3" style="height: 600px">
 	<h1 class="accroche"><span class="T1">&#60&#47Vivre le code></span></h1>
 </div>
 		
-		
 <div class="container-fluid bandeau-noir " style="background-color : black">
 </div>
 
-	
 <!-- pourquoi ? -->
 <div>
 	<div class="row">
@@ -57,6 +56,7 @@
 	
 	
 <!-- video 2 -->
+
 <div data-vide-bg="image/ordicafe" style="height: 700px">
 	<div class="container-fluid">
 		<div class="row flying_video_popup">
@@ -76,7 +76,7 @@
 </div>
 
 
-
+<!--slide avis étudiant créer-->
 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
 	<ol class="carousel-indicators">
 		<li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -85,35 +85,50 @@
 	<div class="carousel-inner" style="background-color : #f2d500; height : 25em ; ">
 		<div class="carousel-item active">
 			<div class="d-block w-100" alt="First slide" >
-				<div class="container-fluid xx">	
+				<div class="container-fluid">	
 					<div class="row">
 						<div class="col popo">
-							<img src="image/slide/popo.png" style="height : 75% ;" class="img-fluid fullsizeimg" alt="Responsive image">
+							<img src="image/slide/popo.png" style="height : 75% ;" class="img-fluid popo" alt="Responsive image">
 						</div>
 						<div class="col Texteslide">
-							<p class="kelly"> <!--style="padding : 3em ;"-->Emodicil inimil ipicid que nosa dolupta ernatibea quae vera voluptatur, sa venet omnim eaquas delenecte exceprehendi dolest ea am inum, nonet lautatur? Orrum reperes tibuscime sunte sit facearchil im ist ea sinctemporem is doluptatem in plab int, odionsequam num hillo te ex et ipiendita conseque nimoloris est alitibera aspersp edignimus dero eatiore molupta parum quaeri acipiendis eum digendus et iusda que pedis inciist, ut eaquibusa dolut in pa volupta quidescimpor si volorem ra voluptat.
+							<p class="kelly" >Emodicil inimil ipicid que nosa dolupta ernatibea quae vera voluptatur, sa venet omnim eaquas delenecte exceprehendi dolest ea am inum, nonet lautatur? Orrum reperes tibuscime sunte sit facearchil im ist ea sinctemporem is doluptatem in plab int, odionsequam num hillo te ex et ipiendita conseque nimoloris est alitibera aspersp edignimus dero eatiore molupta parum quaeri acipiendis eum digendus et iusda que pedis inciist, ut eaquibusa dolut in pa volupta quidescimpor si volorem ra voluptat.
 							Optae nos pro cupta volupta dolores eriatus ideliae etur, esti quatis vend</p>
 						</div>
 					</div>
 				</div>
 			</div>	
 		</div>
-		
-		<!--<div class="carousel-item">
-			<div class="d-block w-100" alt="First slide" style=" height : 25em ; ">
+		<div class="carousel-item">
+			<div class="d-block w-100" alt="second slide" >
 				<div class="container-fluid">	
 					<div class="row">
-						<div class="col">
-							mon image
+						<div class="col popo">
+							<img src="image/slide/slydephoto12.png" style="height : 75% ;" class="img-fluid popo" alt="Responsive image">
 						</div>
-						<div class="col">
-							mon texte
+						<div class="col Texteslide">
+							<p class="kelly" >Emodicil inimil ipicid que nosa dolupta ernatibea quae vera voluptatur, sa venet omnim eaquas delenecte exceprehendi dolest ea am inum, nonet lautatur? Orrum reperes tibuscime sunte sit facearchil im ist ea sinctemporem is doluptatem in plab int, odionsequam num hillo te ex et ipiendita conseque nimoloris est alitibera aspersp edignimus dero eatiore molupta parum quaeri acipiendis eum digendus et iusda que pedis inciist, ut eaquibusa dolut in pa volupta quidescimpor si volorem ra voluptat.
+							Optae nos pro cupta volupta dolores eriatus ideliae etur, esti quatis vend</p>
 						</div>
 					</div>
 				</div>
 			</div>	
-		</div>	
-	</div>-->
+		</div>
+				<div class="carousel-item">
+			<div class="d-block w-100" alt="third slide">
+				<div class="container-fluid">	
+					<div class="row">
+						<div class="col popo">
+							<img src="image/slide/slydephoto13.png" style="height : 75% ;" class="img-fluid popo" alt="Responsive image">
+						</div>
+						<div class="col Texteslide">
+							<p class="kelly" >Emodicil inimil ipicid que nosa dolupta ernatibea quae vera voluptatur, sa venet omnim eaquas delenecte exceprehendi dolest ea am inum, nonet lautatur? Orrum reperes tibuscime sunte sit facearchil im ist ea sinctemporem is doluptatem in plab int, odionsequam num hillo te ex et ipiendita conseque nimoloris est alitibera aspersp edignimus dero eatiore molupta parum quaeri acipiendis eum digendus et iusda que pedis inciist, ut eaquibusa dolut in pa volupta quidescimpor si volorem ra voluptat.
+							Optae nos pro cupta volupta dolores eriatus ideliae etur, esti quatis vend</p>
+						</div>
+					</div>
+				</div>
+			</div>	
+		</div>
+	
 	<a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
 		<span class="carousel-control-prev-icon" aria-hidden="true"></span>
 		<span class="sr-only">Previous</span>
@@ -124,37 +139,7 @@
 	</a>
 </div>
 
-
-
-	
-<!-- commentaire etudiants -->
-<!--<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-	<ol class="carousel-indicators">
-		<li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-		<li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-		<li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-	</ol>
-	<div class="carousel-inner">
-		<div class="carousel-item active">
-			<img class="d-block w-100" src="/image/slide/slydesanstexte1.png" alt="First slide">
-			<p>ilkfejlkqf</p>
-		</div>
-		<div class="carousel-item">
-			<img class="d-block w-100" src="/image/slide/slydesanstexte12.png" alt="Second slide">
-		</div>
-		<div class="carousel-item">
-			<img class="d-block w-100" src="/image/slide/slydesanstexte13.png" alt="Third slide">
-		</div>
-	</div>
-	<a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-		<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-		<span class="sr-only">Previous</span>
-	</a>
-	<a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-		<span class="carousel-control-next-icon" aria-hidden="true"></span>
-		<span class="sr-only">Next</span>
-	</a>
-</div>-->
+<!--slide projet avec photo-->
 <h1 class="projet">LES PROJETS</h1>
 <div id="carouselExampleIndicators2" class="carousel slide " data-ride="carousel">
   <ol class="carousel-indicators">
@@ -183,7 +168,7 @@
   </a>
 </div>
 
-
+<!--Abonne toi, newsletter-->
 <div class="container">
 	<div class="row">
 		<div class="col-4">
