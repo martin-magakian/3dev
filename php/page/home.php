@@ -116,13 +116,13 @@
 	<div class="carousel-inner" style="background-color : #f2d500; height : 25em ; ">
 		<div class="carousel-item active">
 			<div class="d-block w-100" alt="First slide" >
-				<div class="container-fluid">	
+				<div class="container-fluid xx">	
 					<div class="row">
-						<div class="col">
+						<div class="col popo">
 							<img src="image/slide/popo.png" style="height : 75% ;" class="img-fluid fullsizeimg" alt="Responsive image">
 						</div>
 						<div class="col Texteslide">
-							<p>Emodicil inimil ipicid que nosa dolupta ernatibea quae vera voluptatur, sa venet omnim eaquas delenecte exceprehendi dolest ea am inum, nonet lautatur? Orrum reperes tibuscime sunte sit facearchil im ist ea sinctemporem is doluptatem in plab int, odionsequam num hillo te ex et ipiendita conseque nimoloris est alitibera aspersp edignimus dero eatiore molupta parum quaeri acipiendis eum digendus et iusda que pedis inciist, ut eaquibusa dolut in pa volupta quidescimpor si volorem ra voluptat.
+							<p class="kelly"> <!--style="padding : 3em ;"-->Emodicil inimil ipicid que nosa dolupta ernatibea quae vera voluptatur, sa venet omnim eaquas delenecte exceprehendi dolest ea am inum, nonet lautatur? Orrum reperes tibuscime sunte sit facearchil im ist ea sinctemporem is doluptatem in plab int, odionsequam num hillo te ex et ipiendita conseque nimoloris est alitibera aspersp edignimus dero eatiore molupta parum quaeri acipiendis eum digendus et iusda que pedis inciist, ut eaquibusa dolut in pa volupta quidescimpor si volorem ra voluptat.
 							Optae nos pro cupta volupta dolores eriatus ideliae etur, esti quatis vend</p>
 						</div>
 					</div>
@@ -130,8 +130,8 @@
 			</div>	
 		</div>
 		
-		<div class="carousel-item">
-			<div class="d-block w-100" alt="First slide" style="background-color : yellow ; height : 25em ; ">
+		<!--<div class="carousel-item">
+			<div class="d-block w-100" alt="First slide" style=" height : 25em ; ">
 				<div class="container-fluid">	
 					<div class="row">
 						<div class="col">
@@ -144,7 +144,7 @@
 				</div>
 			</div>	
 		</div>	
-	</div>
+	</div>-->
 	<a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
 		<span class="carousel-control-prev-icon" aria-hidden="true"></span>
 		<span class="sr-only">Previous</span>
