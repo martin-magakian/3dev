@@ -565,22 +565,26 @@ form {
     text-align: center;
 }
 .btn {
-	margin-bottom: 3em;
+	margin-bottom: -0.5em;
+}
+.prenom {
+	margin-top: 1.5em;
 }
 .nom {
-	margin-top: 0em;
+	margin-top: 1.5em;
 }
 .email {
-	margin-top: -3em;
+	margin-top: -0.5em;
 }
 .aide {
-	margin-top: -3em;
+	margin-top: -0.5em;
 }
 .envoyer {
 	margin-top: 1em;
+	margin-bottom: 2em;
 }
 .sujet {
-	margin-top: -3em;
+	margin-top: 0em;
 }
 
 /*********************************************************************/

@@ -4,7 +4,7 @@
 
 <div class="container">
 	<div class="row">
-        <div class="col">
+        <div class="col prenom">
 			<input type="text" class="form-control" placeholder="prénom">
 		</div>
         <div class="col nom">
