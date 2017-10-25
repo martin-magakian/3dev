@@ -261,21 +261,50 @@ header .navbar-toggler-icon {
 
 /*********************************************************/
 /******************** DEBUT Slide ***********************/
-.xx {
-    flex-grow: 1;
-    max-width: 100%;
-    padding: 5em;
-    margin: 8em;
-    margin-top: 1em;
+@media screen and (max-width:2000px) {
+.kelly {
+    padding: 4em;
+    margin: 20em;
+    margin-top: 3em;
+    margin-left: -7em;
     text-align: justify;
 }
-
-
-
-
-
-
-
+}
+.popo {
+	margin: 7em;
+    margin-top: -15.5px;
+    padding: 2em 0 3em 2em;   
+}
+@media screen and (max-width:1024px) {
+.kelly {
+    padding: 4em;
+    margin: 9em;
+    margin-top: -1em;
+    margin-left: -12em;
+    text-align: justify;
+    margin-right: 4em;
+}
+.popo {
+	margin: 9em;
+    margin-top: 20.5px;
+    margin-left: 3em;   
+}
+}
+@media screen and (max-width:200px) {
+.kelly {
+    padding: 4em;
+    margin: 11em;
+    margin-top: -2em;
+    margin-left: -9em;
+    text-align: justify;
+    margin-right: 2em;
+}
+.popo {
+	margin: 9em;
+    margin-top: 20.5px;
+    margin-left: 3em;   
+}
+}
 /*********************************************************/
 /******************** FIN Slide *************************/
 
