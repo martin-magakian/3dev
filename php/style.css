@@ -415,35 +415,35 @@ footer a {
     font-size: 30px
 }
 .onlylyon {
-    max-width: 70%;
+    max-width: 250px;
     height: auto;
     padding: 0;
     margin-bottom: 4em;
     margin-top: -10px
 }
 .fb {
-    max-width: 6%;
+    max-width: 22px;
     height: auto;
     padding: 0;
     margin-top: 30px;
     margin-left: 40px
 }
 .tw {
-    max-width: 13%;
+    max-width: 40px;
     height: auto;
     padding: 0;
     margin-top: 35px;
     margin-left: 30px
 }
 .ig {
-    max-width: 13%;
+    max-width: 40px;
     height: auto;
     padding: 0;
     margin-top: 29px;
     margin-left: 30px
 }
 .g {
-    max-width: 18%;
+    max-width: 50px;
     height: auto;
     padding: 0;
     margin-top: 32px;
