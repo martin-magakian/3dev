@@ -551,9 +551,12 @@ iframe {
     color: white;
     padding-top: 0.8em;
 }
-.form-control {
+.noform-control {
     margin-top: 1em;
     margin-bottom: 1em;
+}
+.spacebtn {
+    margin-bottom: 5em;
 }
 form {
     display: block;
@@ -566,9 +569,6 @@ form {
     color: white;
     font-family: gros titre;
     text-align: center;
-}
-.btn {
-	margin-bottom: -0.5em;
 }
 .prenom {
 	margin-top: 1.5em;
