@@ -175,29 +175,22 @@
 		</div>
 		<div class="col-4" align="center">
 			<label for="exampleFormControlInput1" id="spaceab"><h1>Abonne toi ! </h1></label>
-<<<<<<< HEAD
-=======
-
->>>>>>> 05df1dc13f12453090279942389bbf27d7d3a82d
-    		<div class="input-group spacebtn">
+	   		<div class="input-group spacebtn">
       			<input type="text" class="form-control" placeholder="name@example.com" aria-label="Search for...">
       			<span class="input-group-btn">
         			<button class="btn btn-secondary" type="button">Go!</button>
       			</span>
   			</div>
-<<<<<<< HEAD
+
 		</div>
 	</div>
 </div>
-=======
+
 	</div>
 
 </div>
 </div>
 
 
-<!-- <label for="exampleFormControlInput1" id="spaceab"><h1>Abonne toi ! </h1></label>
-			<input type="email" class="form-control" id="spaceabo" placeholder="name@example.com">
-			<div class="col btnhome">
-			<button type="submit" class="btn">Envoyer</button> -->
->>>>>>> 05df1dc13f12453090279942389bbf27d7d3a82d
+
+
