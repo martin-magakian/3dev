@@ -20,10 +20,18 @@
 			</div>
 			<div class="col">
 				<h3> Suivez-nous </h3>
-				<ul>
-				  <a href="#"id="lien"> <img src="image/fb.svg" class="fb"> </img></a> <a href="#"id="lien"> <img src="image/tw.svg" class="tw"> </img></a> <a href="#"id="lien"> <img src="image/ig.svg" class="ig"> </img></a> <a href="#"id="lien"> <img src="image/g.svg" class="g"> </img></a>
-				</ul>
+					<div class="col">
+						<a class="fb" href="#">Leaf</a>
+					</div>
+					<div class="col">
+						<a class="tw2" href="#">Leaf</a>
+					</div>
+					<div class="col">
+						<a class="ig2" href="#">Leaf</a>
+					</div>
+					<div class="col">
+						<a class="g2" href="#">Leaf</a>
+					</div>
 			</div>
 		</div>
-	</div>
 </footer>
