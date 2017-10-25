@@ -61,9 +61,12 @@
 			<div class="row justify-content-center align-items-center">
 			  <div class="col-6 " style="text-align: center">
 				<h2 class="titre-photo"<br>Rentrée en septembre</br><br>Pédagogie Bootcamp</br><br>Rythme de ravail intensif</br><br>Pro liés au monde du travail</br></h2>
+				<div class="row">
+					<h1 class="plus">+</h1>
 			  </div>
 			</div>
 		</div>
+	</div>
 	</section>
 <!--video-->
 <!--<div data-vide-bg="image/ordicafe" style="height: 700px">
