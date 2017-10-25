@@ -215,23 +215,27 @@ header .navbar-toggler-icon {
 	.mec {
 		padding: 1em;
 		margin: 21em;
-		margin-top: 2em;
+		margin-top: 5em;
 		margin-left: -1em;
 		text-align: justify;
 	}
 	.etud {
 		padding: 0em;
 		margin: 18em;
-		margin-top: 3em;
+		margin-top: 5em;
 		margin-left: -20em;
 		text-align: justify;
 	}
 	}
-
 .popo {
 	margin: 7em;
     margin-top: -15.5px;
     padding: 2em 0 3em 2em;   
+}
+.plp {
+	margin: 1em;
+    margin-top: -58px;
+    padding: 6em 0 3em 2em; 
 }
 }
 @media screen and (max-width:1024px) {
