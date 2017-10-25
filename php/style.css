@@ -262,13 +262,13 @@ header .navbar-toggler-icon {
 /*********************************************************/
 /******************** DEBUT Slide ***********************/
 @media screen and (max-width:2000px) {
-.kelly {
-    padding: 4em;
-    margin: 20em;
-    margin-top: 3em;
-    margin-left: -7em;
-    text-align: justify;
-}
+	.kelly {
+		padding: 4em;
+		margin: 20em;
+		margin-top: 3em;
+		margin-left: -7em;
+		text-align: justify;
+	}
 }
 .popo {
 	margin: 7em;
@@ -276,37 +276,59 @@ header .navbar-toggler-icon {
     padding: 2em 0 3em 2em;   
 }
 @media screen and (max-width:1024px) {
-.kelly {
-    padding: 4em;
-    margin: 9em;
-    margin-top: -1em;
-    margin-left: -12em;
-    text-align: justify;
-    margin-right: 4em;
-}
-.popo {
-	margin: 9em;
-    margin-top: 20.5px;
-    margin-left: 3em;   
-}
+	.kelly {
+		padding: 4em;
+		margin: 9em;
+		margin-top: -1em;
+		margin-left: -12em;
+		text-align: justify;
+		margin-right: 4em;
+	}
+	.popo {
+		margin: 9em;
+		margin-top: 20.5px;
+		margin-left: 3em;   
+	}
 }
 @media screen and (max-width:200px) {
-.kelly {
-    padding: 4em;
-    margin: 11em;
-    margin-top: -2em;
-    margin-left: -9em;
-    text-align: justify;
-    margin-right: 2em;
-}
-.popo {
-	margin: 9em;
-    margin-top: 20.5px;
-    margin-left: 3em;   
-}
+	.kelly {
+		padding: 4em;
+		margin: 11em;
+		margin-top: -2em;
+		margin-left: -9em;
+		text-align: justify;
+		margin-right: 2em;
+	}
+	.popo {
+		margin: 9em;
+		margin-top: 20.5px;
+		margin-left: 3em;   
+	}
 }
 /*********************************************************/
 /******************** FIN Slide *************************/
+
+
+
+
+
+
+
+
+
+
+/************************** DEBUT PROJET*******************/
+/*********************************************************/
+.projet {
+    margin-top: 2em;
+    text-align: center;
+    color: black;
+    font-size: 4em;
+    font-family: mosk900;
+}
+/*********************************************************/
+/*****************FIN PROJET ****************************/
+
 
 
 
@@ -334,6 +356,13 @@ label h1 {
 h1 {
     font-size: 40px;
     text-align: center;
+}
+.btnhome {
+         margin-top: 99.5px;
+         margin-top: 102.5px;
+}
+.homebtn {
+        padding: 0.8rem .75rem;
 }
 /******************* FIN Abonne-toi **********************/
 /*********************************************************/
@@ -563,7 +592,7 @@ span {
     height: auto;
 }
 iframe {
-		height: 1000px;
+		height: 600px;
 }
 .bandeaujaune {
     display: block;
@@ -578,8 +607,8 @@ iframe {
     padding-top: 0.8em;
 }
 .form-control {
-    height: 2em;
-    margin-bottom: 2em;
+    margin-top: 1em;
+    margin-bottom: 1em;
 }
 form {
     display: block;

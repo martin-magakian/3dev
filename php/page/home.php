@@ -4,13 +4,10 @@
 	<h1 class="accroche"><span class="T1">&#60&#47Vivre le code></span></h1>
 </div>
 		
-		
 <div class="container-fluid bandeau-noir " style="background-color : black">
 </div>
 
-	
 <!-- pourquoi ? -->
-
 <div>
 	<div class="row">
 		<div class="col-lg-6 col-md-12">
@@ -28,7 +25,6 @@
 </div>
 	
 <!-- bandeau jaune-->
-
 <div class="container-fluid">
 	<div class="row bandeau" style="background-color : #f2d500">
 		<div class="col-md-3 col-sm-6 bandeaunumber" >
@@ -81,7 +77,6 @@
 
 
 <!--slide avis étudiant créer-->
-
 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
 	<ol class="carousel-indicators">
 		<li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -145,8 +140,7 @@
 </div>
 
 <!--slide projet avec photo-->
-
-<h1 style="text-align: center ; color: black;">LES PROJETS</h1>
+<h1 class="projet">LES PROJETS</h1>
 <div id="carouselExampleIndicators2" class="carousel slide " data-ride="carousel">
   <ol class="carousel-indicators">
     <li data-target="#carouselExampleIndicators2" data-slide-to="0" class="active"></li>
@@ -175,7 +169,6 @@
 </div>
 
 <!--Abonne toi, newsletter-->
-
 <div class="container">
 	<div class="row">
 		<div class="col-4">
@@ -184,7 +177,9 @@
 			<label for="exampleFormControlInput1" id="spaceab"><h1>Abonne toi ! </h1></label>
 			<input type="email" class="form-control" id="spaceabo" placeholder="name@example.com">
 		</div>
-		<div class="col-4">
+		<div class="col btnhome">
+		<button type="submit" class="btn homebtn">Envoyer</button>
 		</div>
+	</div>
   </div>
 </div>
