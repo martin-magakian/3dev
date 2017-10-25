@@ -193,7 +193,7 @@
 			<input type="email" class="form-control" id="spaceabo" placeholder="name@example.com">
 		</div>
 		<div class="col btnhome">
-		<button type="submit" class="btn">Envoyer</button>
+		<button type="submit" class="btn homebtn">Envoyer</button>
 		</div>
 	</div>
   </div>
