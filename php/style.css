@@ -537,7 +537,7 @@ span {
     height: auto;
 }
 iframe {
-		height: 1000px;
+		height: 600px;
 }
 .bandeaujaune {
     display: block;
@@ -552,8 +552,8 @@ iframe {
     padding-top: 0.8em;
 }
 .form-control {
-    height: 2em;
-    margin-bottom: 2em;
+    margin-top: 1em;
+    margin-bottom: 1em;
 }
 form {
     display: block;
