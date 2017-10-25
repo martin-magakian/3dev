@@ -60,7 +60,7 @@
 		<div class="container">
 			<div class="row justify-content-center align-items-center">
 			  <div class="col-6 " style="text-align: center">
-				<h2>Hello</h2>
+				<h2 class="titre-photo"<br>Rentrée en septembre</br><br>Pédagogie Bootcamp</br><br>Rythme de ravail intensif</br><br>Pro liés au monde du travail</br></h2>
 			  </div>
 			</div>
 		</div>
