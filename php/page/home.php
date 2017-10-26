@@ -201,10 +201,10 @@
 	<div class="row">
 		<div class="col-4">
 		</div>
-		<div class="col-4" align="center">
+		<div class="col-lg-4 col-sm-12" align="center">
 			<label for="exampleFormControlInput1" id="spaceab"><h1>Abonne toi ! </h1></label>
 	   		<div class="input-group spacebtn">
-      			<input type="text" class="form-control" placeholder="name@example.com" aria-label="Search for...">
+      			<input type="text" class="form-control" id="resp-control" placeholder="name@example.com" aria-label="Search for...">
       			<span class="input-group-btn">
         			<button class="btn btn-secondary" type="button">Go!</button>
       			</span>
