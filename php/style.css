@@ -259,29 +259,29 @@ header .navbar-toggler-icon {
     font-size: 4em;
     font-family: mosk900;
 }
-    @media screen and (max-width:1200px) {
-.plus {
-    display: block;
-    background-color: #f2d500;
-    width: 2em;
-    height: 2em;
-    padding-top: 0.3em;
-    margin-right: -1em;
-    margin-left: 10.5em;
-    margin-top: -7em;
+@media screen and (max-width:1200px) {
+    .plus {
+        display: block;
+        background-color: #f2d500;
+        width: 2em;
+        height: 2em;
+        padding-top: 0.3em;
+        margin-right: -1em;
+        margin-left: 10.5em;
+        margin-top: -7em;
+    }
+    .plus:hover {
+        display: block;
+        background-color: white;
+        color: #f2d500;
+        width: 2em;
+        height: 2em;
+        padding-top: 0.3em;
+        margin-left: 10.5em;
+        margin-top: -7em;
+    }
 }
-.plus:hover {
-    display: block;
-    background-color: white;
-    color: #f2d500;
-    width: 2em;
-    height: 2em;
-    padding-top: 0.3em;
-    margin-left: 10.5em;
-    margin-top: -7em;
-}
-}
-    @media screen and (max-width:990px) {
+@media screen and (max-width:990px) {
     .plus {
     display: block;
     background-color: #f2d500;
@@ -303,38 +303,39 @@ header .navbar-toggler-icon {
     margin-top: -7em;
 }
 }
-    @media screen and (max-width: 770px) {
-.plus {
-    display: block;
-    background-color: #f2d500;
-    width: 2em;
-    height: 2em;
-    padding-top: 0.3em;
-    margin-right: -1em;
-    margin-left: 11.5em;
-    margin-top: -7em;
-}
-.plus:hover {
-    display: block;
-    background-color: white;
-    color: #f2d500;
-    width: 2em;
-    height: 2em;
-    padding-top: 0.3em;
-    margin-left: 11.5em;
-    margin-top: -7em;
-}
+ @media screen and (max-width: 770px) {
+    .plus {
+        display: block;
+        background-color: #f2d500;
+        width: 2em;
+        height: 2em;
+        padding-top: 0.3em;
+        margin-right: -1em;
+        margin-left: 11.5em;
+        margin-top: -7em;
+    }
+    .plus:hover {
+        display: block;
+        background-color: white;
+        color: #f2d500;
+        width: 2em;
+        height: 2em;
+        padding-top: 0.3em;
+        margin-left: 11.5em;
+        margin-top: -7em;
+    }
 }
 @media screen and (max-width: 520px){
     .plus {
-         display: block;
+        display: block;
         background-color: #f2d500;
-        width: 11.3em;
-        height: 2em;
+        width: 8.6em;
+        height: 2.em;
         padding-top: 0.3em;
         margin-right: -1em;
         margin-left: 0.39em;
         margin-top: -7.9em;
+}
     }
     .plus:hover {
         display: block;
@@ -343,6 +344,7 @@ header .navbar-toggler-icon {
         width: 11.3em;
         height: 2em;
         padding-top: 0.3em;
+        margin-right: -1em;
         margin-left: 0.39em;
         margin-top: -7.9em;
     }
@@ -386,13 +388,13 @@ header .navbar-toggler-icon {
 /*************** DEBUT intro formation *******************/
 .titre-photo {
                 
-                 color: white;
-                 font-family: mosk600;
-                 font-size: 1.5em;
-                 text-align: center;
-                 padding: 1em;
-                 margin-top: 4em;
-                 background-color: rgba(0,0,0,0.5);
+    color: white;
+    font-family: mosk600;
+    font-size: 1.5em;
+    text-align: center;
+    padding: 1em;
+    margin-top: 4em;
+   background-color: rgba(0,0,0,0.5);
 }
 .imagebackground {
     /* can change */
@@ -615,7 +617,6 @@ footer a {
     text-align: center;
 }
 .bandeauyellow {
-	
 	display: block ;
 	height : 5em ; 
 	background-color : #F2D500 ;
@@ -724,7 +725,7 @@ span {
     height: auto;
 }
 iframe {
-		height: 600px;
+	height: 600px;
 }
 .bandeaujaune {
     display: block;
