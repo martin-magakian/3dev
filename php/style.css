@@ -696,16 +696,29 @@ span {
 
 /***********************************************************************/
 /****************** DEBUT page formation: tarif ***********************/
-.bandeautarif {
-	display: block ; 
-	background-color : #F2D500 ;
-	text-align: center ;
-	font-family: helvetica;
-	color : white ; 
-	margin-top: 3em;
-	padding : 1em ;
-	margin-bottom : 3em ;
+.bandeauform {
+	margin-top : 3em;
+    text-align: center;
+    line-height: 1.2;
 }
+.bandeaunumberform {
+    color: white;
+    font-family: mosk600;
+    text-align: center;
+    font-size: 2em;
+    padding-top: 1em;
+    margin: none;
+}
+.bandeaunumber1form {
+    color: black;
+    font-family: helvetica;
+    margin: none;
+    padding: none;
+    font-size: 1em;
+    padding-bottom: 1em;
+    text-align: center;
+}
+
 /****************** FIN page formation: tarif ***********************/
 /*********************************************************************/
 
