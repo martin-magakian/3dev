@@ -20,18 +20,12 @@
 			</div>
 			<div class="col">
 				<h3> Suivez-nous </h3>
-					<div class="col">
-						<a class="fb" href="#">Leaf</a>
-					</div>
-					<div class="col">
-						<a class="tw2" href="#">Leaf</a>
-					</div>
-					<div class="col">
-						<a class="ig2" href="#">Leaf</a>
-					</div>
-					<div class="col">
-						<a class="g2" href="#">Leaf</a>
-					</div>
+				<div class="row">
+					<a class="fb" href="#">Leaf</a>
+					<a class="tw2" href="#">Leaf</a>
+					<a class="ig2" href="#">Leaf</a>
+					<a class="g2" href="#">Leaf</a>
+				</div>
 			</div>
 		</div>
 </footer>
