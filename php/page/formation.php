@@ -138,16 +138,31 @@
 			</div>
 		</div>
 		
-		<div class="container-fluid bandeautarif">
-		<div class="row">
-			<div class="col"
-				<h1>TARIF DE FORMATION</h1>
-				<p>Première année de fomation 9500€</p>
-				<p>Deuxième année de fomation 9500€</p>
-				<p>Troisième année de fomation 9500€</p>
+<!--Bandeau tarif-->
+	<div class="container-fluid">
+		<div class="row bandeauform" style="background-color : #f2d500">
+			<div class="col-md-4 col-sm-12 bandeaunumberform" >
+					1<SUP>er</SUP> année
+				<div class="bandeaunumber1form" >
+					9500€
+				</div>
+			</div>
+			<div class="col-md-4 col-sm-12 bandeaunumberform">
+					2<SUP>ème</SUP> année
+				<div class="bandeaunumber1form" >
+					9500€
+				</div>
+			</div>
+			<div class="col-md-4 col-sm-12 bandeaunumberform">
+					3<SUP>ème</SUP> année
+				<div class="bandeaunumber1form" >
+					9500€
+				</div>
 			</div>
 		</div>
 	</div>
+		
+	
 		
 
 	
