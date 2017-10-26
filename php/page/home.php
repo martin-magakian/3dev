@@ -58,14 +58,15 @@
 <!-- photo-->
 <section class="imagebackground">
 		<div class="container">
-			<div class="row justify-content-center align-items-center">
+			<a class="row justify-content-center align-items-center linkform" a href="http://localhost/?page=formation" style="text-decoration: none;">
 			  <div class="col-lg-6 col-sm-12" style="text-align: center">
+
 				<h2 class="titre-photo"<br>Rentrée en septembre</br><br>Pédagogie Bootcamp</br><br>Rythme de ravail intensif</br><br>Pro liés au monde du travail</br></h2>
 				<div class="row">
 					<h1 class="plus">+</h1>
 			  </div>
 			</div>
-		</div>
+		</a>
 	</div>
 	</section>
 <!--video-->
