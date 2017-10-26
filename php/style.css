@@ -148,6 +148,9 @@ header .navbar-toggler-icon {
     font-size: 1.7em;
     text-align: justify;
 }
+.photog {
+    margin-left: inherit;
+}
 /*************** FIN pourquoi 3DEV *****************/ 
 /***********************************************/
 
@@ -536,39 +539,47 @@ footer a {
     background: url('/image/fb.png') bottom;
     text-indent: -99999px;
     background-repeat: no-repeat;
+    margin-right: 10%;
+    margin-left: 8%;
+    margin-top: 5%;
 }
 .fb:hover {
     background-position: 0 0;
 }
 .tw2 {
     display: block;
-    width: 65px;
-    height: 50px;
+    width: 53px;
+    height: 46px;
     background: url('/image/tw2.png') bottom;
     text-indent: -99999px;
     background-repeat: no-repeat;
+    margin-top: 6%;
+    margin-right: 10%;
 }
 .tw2:hover {
     background-position: 0 0;
 }
 .ig2 {
     display: block;
-    width: 50px;
+    width: 51px;
     height: 50px;
     background: url('/image/ig2.png') bottom;
     text-indent: -99999px;
     background-repeat: no-repeat;
+    margin-top: 5%;
+    margin-right: 10%;
 }
 .ig2:hover {
     background-position: 0 0;
 }
 .g2 {
     display: block;
-    width: 80px;
-    height: 50px;
+    width: 81px;
+    height: 51px;
     background: url('/image/g2.png') bottom;
     text-indent: -99999px;
     background-repeat: no-repeat;
+    margin-top: 5%;
 }
 .g2:hover {
     background-position: 0 0;

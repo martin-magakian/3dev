@@ -1,6 +1,6 @@
 <!--video-->
 
-<div data-vide-bg="https://www.ironhack.com/assets/videos/ironhack-video-3" style="height: 600px">
+<div data-vide-bg="mp4: https://www.ironhack.com/assets/videos/ironhack-video-3.mp4, poster: /image/mac.png" style="height: 600px">
 	<h1 class="accroche"><span class="T1">&#60&#47Vivre le code></span></h1>
 </div>
 		
@@ -10,7 +10,7 @@
  <!--pourquoi ?--> 
 <div class="container-fluid">
 	<div class="row">
-		<div class="col-lg-6 col-md-12">
+		<div class="col-lg-6 col-md-12 photog">
 			<img src="image/photogrp.png" class="img-fluid fullsizeimg" alt="Responsive image">
 		</div>
 		<div class="col-lg-6 col-md-12 center-vertical">
