@@ -508,27 +508,6 @@ footer a {
     margin-bottom: 4em;
     margin-top: -10px
 }
-.tw {
-    max-width: 40px;
-    height: auto;
-    padding: 0;
-    margin-top: 35px;
-    margin-left: 30px
-}
-.ig {
-    max-width: 40px;
-    height: auto;
-    padding: 0;
-    margin-top: 29px;
-    margin-left: 30px
-}
-.g {
-    max-width: 50px;
-    height: auto;
-    padding: 0;
-    margin-top: 32px;
-    margin-left: 30px
-}
 #lien:hover {
     color: #f2d500;
     text-decoration: none;
@@ -584,6 +563,49 @@ footer a {
 }
 .g2:hover {
     background-position: 0 0;
+}
+@media screen and (max-width:1200px) and (min-width:992px) {
+    .fb{margin-right: 10%;
+        margin-left: 25%;
+        margin-top: 5%;
+    }
+    .tw2{margin-right: 0%;
+        margin-left: 15%;
+        margin-top: 5%;
+    }
+    .ig2{margin-right: 10%;
+        margin-left: 22%;
+        margin-top: 10%;
+    }
+    .g2{margin-right: 0%;
+        margin-left: 9%;
+        margin-top: 9%;
+    }
+}
+@media screen and (max-width:992px) and (min-width:768px) {
+    .fb{margin-left: 18%;
+    }
+    .tw2{margin-left: ;
+    }
+    .ig2{margin-left: 13%;
+        margin-top: 10%;
+    }
+    .g2{margin-left: 5%;
+        margin-top: 9%;
+    }
+}
+@media screen and (max-width:768px) and (min-width:548px)  {
+    .fb{margin-left: 35%;
+    }
+    .tw2{margin-left: 23%;
+        margin-top: 20%;
+    }
+    .ig2{margin-left: 23%;
+        margin-top: 20%;
+    }
+    .g2{margin-left: 23%;
+        margin-top: 20%;
+    }
 }
 /******************** FIN footer *************************/
 /*********************************************************/
