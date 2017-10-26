@@ -10,15 +10,21 @@
  <!--pourquoi ?--> 
 <div class="container-fluid">
 	<div class="row">
-		<div class="col-lg-6 col-md-12 photog">
+		<div class="col-lg-6 col-md-12 photog center-vertical">
 			<img src="image/photogrp.png" class="img-fluid fullsizeimg" alt="Responsive image">
 		</div>
 		<div class="col-lg-6 col-md-12 center-vertical">
-			<div class="pourquoi_3dev">
-				<h1 class="title"><span class="T1">&#60&#47Pourquoi</span><span class="T2"> 3</span><span class="T3">DEV</span><span class="T1">&#62 </span> </span></h1>
-				<p class="sstitle">
-					3 dev, c’est la première formation uniquement pour developeurs ouverte à tous. Sa pédagogie c’est le bootcamps, travailler sur des vrais projet ensemble dans une ambiance de start up et de famille.
-				</p>
+			<div class="row pourquoi_3dev">
+				<div class="col-2">
+				</div>
+				<div class="col-8">
+					<h1 class="title"><span class="T1">&#60&#47Pourquoi</span><span class="T2">3</span><span class="T3">DEV</span><span class="T1">&#62 </span> </span></h1>
+					<p class="sstitle">
+						3 dev, c’est la première formation uniquement pour developeurs ouverte à tous. Sa pédagogie c’est le bootcamps, travailler sur des vrais projet ensemble dans une ambiance de start up et de famille.
+					</p>
+				</div>
+				<div class="col-2">
+				</div>
 			</div>
 		</div>
 	</div>

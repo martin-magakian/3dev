@@ -152,8 +152,6 @@ header .navbar-toggler-icon {
     font-family: mosk900
 }
 .pourquoi_3dev {
-    padding-right: 15%;
-    padding-left: 15%;
     text-align: left;
     font-family: helvetica;
     font-size: 1.7em;
@@ -162,22 +160,7 @@ header .navbar-toggler-icon {
 .photog {
     margin-left: inherit;
 }
-@media screen and (max-width:1350px) and (min-width: 992px){
-    .pourquoi_3dev{
-        font-size: 1.4em;
-    }
-}
-@media screen and (max-width:992px) {
-    .pourquoi_3dev{
-        font-size: 1.7em;
-        margin-top: 10%;
-        margin-bottom: 10%;
-        margin-left: 10%;
-        margin-right: 10%;
-    }
-    .img-fluid { 
-    }
-}
+
 /*************** FIN pourquoi 3DEV *****************/ 
 /***********************************************/
 
