@@ -332,19 +332,19 @@ header .navbar-toggler-icon {
     .plus {
         display: block;
         background-color: #f2d500;
-        width: 8.6em;
+        width: 11.8em;
         height: 2em;
         padding-top: 0.3em;
         margin-right: -1em;
         margin-left: 0.39em;
         margin-top: -7.9em;
-}
     }
+    
     .plus:hover {
         display: block;
         background-color: white;
         color: #f2d500;
-        width: 8.6em;
+        width: 11.8em;
         height: 2em;
         padding-top: 0.3em;
         margin-right: -1em;
