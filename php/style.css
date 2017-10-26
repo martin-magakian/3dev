@@ -349,25 +349,26 @@ header .navbar-toggler-icon {
 }
 @media screen and (max-width: 320px){
     .plus {
-        display: block;
-        background-color: #f2d500;
-        width: 6.7em;
+        display: #f2d500;
+        background-color: #F2D500;
+        width: 7.3em;
         height: 2em;
-        padding-top: 0.3em;
+        padding-top: 0.4em;
         margin-right: -1em;
-        margin-left: 0.39em;
-        margin-top: -10.5em;
+        margin-left: 0.4em;
+        margin-top: -9.3em;
     }
+        
     .plus:hover {
         display: #f2d500;
         background-color: white;
-        width: 6.7em;
+        width: 7.3em;
         height: 2em;
-        padding-top: 0.3em;
+        padding-top: 0.4em;
         margin-right: -1em;
-        margin-left: 0.39em;
-        margin-top: -10.5em;
-}
+        margin-left: 0.4em;
+        margin-top: -9.3em;
+    }
 }
 
 /*********************************************************/
