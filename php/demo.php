@@ -16,7 +16,7 @@
 <div class="container">
   <div class="row">
 	<?php
-	$cards = array(
+	$slide = array(
 				array(
 					"img" => "https://jeunes-ca.fr/main/wp-content/uploads/2014/03/Mutuelle-%C3%A9tudiante-358x240.jpg",
 					"nom" => "Marie, 2année",
@@ -32,12 +32,12 @@
 				
 			);
 
-	foreach($cards as $card){ ?>
+	foreach($slides as $slide{ ?>
 		<div class="col">
 			<div class="card shadow" style="width: 20rem;">
-				  <img class="card-img-top" src="<?php echo $card['img'] ?>" alt="professeur institut de devellopement code 404">
+				  <img class="card-img-top" src="<?php echo $slide['img'] ?>" alt="professeur institut de devellopement code 404">
 				  <div class="card-body card-body-about">
-					<h4 class="card-title space haut les-profs name"><?php echo $card['nom'] ?></h4>
+					<h4 class="card-title space haut les-profs name"><?php echo $slide['nom'] ?></h4>
 					<p class="card-text space les-profs">Etudie à 3dev</p>
 					<p class="card-text space les-profs ">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
 					<a href="#" class="btn about btn-primary-about bas"><img src="img/linkedin.svg" alt="linkedin"></a>
