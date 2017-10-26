@@ -141,22 +141,10 @@
 <!--Bandeau tarif-->
 	<div class="container-fluid">
 		<div class="row bandeauform" style="background-color : #f2d500">
-			<div class="col-md-4 col-sm-12 bandeaunumberform" >
-					1<SUP>er</SUP> année
+			<div class="col-md-12 col-sm-12 bandeaunumberform" >
+					9500€/ans
 				<div class="bandeaunumber1form" >
-					9500€
-				</div>
-			</div>
-			<div class="col-md-4 col-sm-12 bandeaunumberform">
-					2<SUP>ème</SUP> année
-				<div class="bandeaunumber1form" >
-					9500€
-				</div>
-			</div>
-			<div class="col-md-4 col-sm-12 bandeaunumberform">
-					3<SUP>ème</SUP> année
-				<div class="bandeaunumber1form" >
-					9500€
+					Sur 3 années
 				</div>
 			</div>
 		</div>
