@@ -91,11 +91,11 @@
 
 <!--slide avis étudiant créer-->
 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-	<ol class="carousel-indicators">
-		<li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-		<!--<li data-target="#carouselExampleIndicators" data-slide-to="1" class="active"></li>-->
-		<li data-target="#carouselExampleIndicators" data-slide-to="2" class="active"></li>
-	</ol>
+		<ol class="carousel-indicators">
+			<li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+			<li data-target="#carouselExampleIndicators" data-slide-to="1" class="active"></li>
+			<li data-target="#carouselExampleIndicators" data-slide-to="2" class="active"></li>
+		</ol>
 	<div class="carousel-inner" style="background-color : #f2d500;">
 		<div class="carousel-item active">
 			<div class="d-block w-100" alt="First slide" >
@@ -105,9 +105,10 @@
 							<img src="image/slide/slydephoto1.png" class="slider-img" class="img-fluid popo" alt="Responsive image">
 						</div>
 						<div class="col-sm-12 col-lg-6 texteslide vcenter">
-							<div><h4>Comment se déroule un projet ?</h4>
-							<br /><br />
-							<p>Nous analysons les besoins du client pour réaliser une proposition technique. Si cette proposition est acceptée, on organise une réunion Kick-off pour  lancer le projet. On commence par travailler l’ergonomie, puis la création graphique, et enfin le développement et l’intégration graphique. Puis nous réalisons une série de tests sous différents environnements (différents navigateurs, tailles d’écrans, différents appareils comme les tablettes et mobiles) . Pour finir nous présentons le projet au client qui valide ou qui demande éventuellement des retouches.</p>
+							<div>	
+									<h4>Comment se déroule un projet ?</h4>
+									<br /><br />
+									<p>Nous analysons les besoins du client pour réaliser une proposition technique. Si cette proposition est acceptée, on organise une réunion Kick-off pour  lancer le projet. On commence par travailler l’ergonomie, puis la création graphique, et enfin le développement et l’intégration graphique. Puis nous réalisons une série de tests sous différents environnements (différents navigateurs, tailles d’écrans, différents appareils comme les tablettes et mobiles) . Pour finir nous présentons le projet au client qui valide ou qui demande éventuellement des retouches.</p>
 							</div>
 						</div>
 					</div>
@@ -123,11 +124,11 @@
 						</div>
 						<div class="col-sm-12 col-lg-6 texteslide vcenter">
 							<div>
-								<h4>Quelle est la plus grosse difficulté dans ce métier ?</h4>
-								<br /><br />
-							    <p>Il faut être patient et serein. Parfois on est face à une difficulté et 
-									les choses ne fonctionnent pas alors qu’on est sûr qu’on a tout bien fait. Il faut 
-									savoir prendre du recul sur son travail.</p>
+									<h4>Quelle est la plus grosse difficulté dans ce métier ?</h4>
+									<br /><br />
+									<p>Il faut être patient et serein. Parfois on est face à une difficulté et 
+										les choses ne fonctionnent pas alors qu’on est sûr qu’on a tout bien fait. Il faut 
+										savoir prendre du recul sur son travail.</p>
 							</div>
 						</div>
 					</div>
@@ -142,12 +143,13 @@
 							<img src="image/slide/slydephoto13.png" class="slider-img" class="img-fluid popo" alt="Responsive image">
 						</div>
 						<div class="col-sm-12 col-lg-6 texteslide vcenter">
-							<div> <h4>comment voyez-vous ce métier dans quelques années ?</h4>
-												<br /><br />
-												<p>A mon avis le métier de développeur va se démocratiser, il y a besoin de développeurs dans tout 
-												les secteurs d’activité. Tout comme le “webmaster” des années 2000 qui faisait à lui tout seul design, 
-												ergonomie, développement et intégration, et qui s’est transformé en autant de métiers différents, le développeur 
-												web se spécialiseras d'avantage à l’avenir.</p>
+							<div> 
+									<h4>comment voyez-vous ce métier dans quelques années ?</h4>
+									<br /><br />
+									<p>A mon avis le métier de développeur va se démocratiser, il y a besoin de développeurs dans tout 
+									les secteurs d’activité. Tout comme le “webmaster” des années 2000 qui faisait à lui tout seul design, 
+									ergonomie, développement et intégration, et qui s’est transformé en autant de métiers différents, le développeur 
+									web se spécialiseras d'avantage à l’avenir.</p>
 							</div>
 						</div>
 					</div>
@@ -163,8 +165,8 @@
 		<span class="carousel-control-next-icon" aria-hidden="true"></span>
 		<span class="sr-only">Next</span>
 	</a>
+	</div>
 </div>
-
 <!--slide projet avec photo-->
 <h1 class="projet">LES PROJETS</h1>
 <div id="carouselExampleIndicators2" class="carousel slide " data-ride="carousel">
@@ -212,7 +214,7 @@
 	</div>
 </div>
 
-	</div>
+	
 
 </div>
 </div>
