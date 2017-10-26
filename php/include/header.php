@@ -1,5 +1,3 @@
-
-
 <header>
 	<nav class="navbar navbar-expand-md">
 		<div class="container">
@@ -11,13 +9,13 @@
 			<div class="collapse navbar-collapse" id="navbarNav11">
 				<ul class="navbar-nav ml-auto">
 					<li class="nav-item active">
-						<a class="nav-link" href="/?page=formation">Formation<span class="sr-only">(current)</span></a>
+						<a class="nav-link txtnav" href="/?page=formation">Formation<span class="sr-only">(current)</span></a>
 					</li>
 					<li class="nav-item">
 						<a class="nav-link" href=""></a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="/?page=contact">contact</a>
+						<a class="nav-link txtnav" href="/?page=contact">contact</a>
 					</li>
 				</ul>
 			</div>
