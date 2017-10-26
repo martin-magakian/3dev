@@ -277,6 +277,7 @@ header .navbar-toggler-icon {
         width: 2em;
         height: 2em;
         padding-top: 0.3em;
+        margin-right: -1em;
         margin-left: 10.5em;
         margin-top: -7em;
     }
@@ -298,6 +299,7 @@ header .navbar-toggler-icon {
     color: #f2d500;
     width: 2em;
     height: 2em;
+    margin-right: 0em;
     padding-top: 0.3em;
     margin-left: 15.5em;
     margin-top: -7em;
@@ -321,6 +323,7 @@ header .navbar-toggler-icon {
         width: 2em;
         height: 2em;
         padding-top: 0.3em;
+        margin-right: -1em;
         margin-left: 11.5em;
         margin-top: -7em;
     }
@@ -330,7 +333,7 @@ header .navbar-toggler-icon {
         display: block;
         background-color: #f2d500;
         width: 8.6em;
-        height: 2.em;
+        height: 2em;
         padding-top: 0.3em;
         margin-right: -1em;
         margin-left: 0.39em;
@@ -341,7 +344,7 @@ header .navbar-toggler-icon {
         display: block;
         background-color: white;
         color: #f2d500;
-        width: 11.3em;
+        width: 8.6em;
         height: 2em;
         padding-top: 0.3em;
         margin-right: -1em;
