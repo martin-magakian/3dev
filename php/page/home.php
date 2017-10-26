@@ -58,14 +58,15 @@
 <!-- photo-->
 <section class="imagebackground">
 		<div class="container">
-			<div class="row justify-content-center align-items-center">
+			<a class="row justify-content-center align-items-center linkform" a href="http://localhost/?page=formation" style="text-decoration: none;">
 			  <div class="col-lg-6 col-sm-12" style="text-align: center">
+
 				<h2 class="titre-photo"<br>Rentrée en septembre</br><br>Pédagogie Bootcamp</br><br>Rythme de ravail intensif</br><br>Pro liés au monde du travail</br></h2>
 				<div class="row">
 					<h1 class="plus">+</h1>
 			  </div>
 			</div>
-		</div>
+		</a>
 	</div>
 	</section>
 <!--video-->
@@ -96,15 +97,15 @@
 		<li data-target="#carouselExampleIndicators" data-slide-to="2" class="active"></li>
 	</ol>
 	<div class="carousel-inner" style="background-color : #f2d500;">
-		<!--<div class="carousel-item active">
+		<div class="carousel-item active">
 			<div class="d-block w-100" alt="First slide" >
 				<div class="container">	
 					<div class="row">
-						<div class="col-lg-6">
-							<img src="image/slide/popo.png" style="height : 75% ;" class="img-fluid popo" alt="Responsive image">
+						<div class="col">
+							<img src="image/slide/slydephoto1.png" class="slider-img" class="img-fluid popo" alt="Responsive image">
 						</div>
-						<div class="col-sm-12 col-lg-6 texteslide">
-							<div class="fille"><h4>Comment se déroule un projet ?</h4>
+						<div class="col-sm-12 col-lg-6 texteslide vcenter">
+							<div><h4>Comment se déroule un projet ?</h4>
 							<br /><br />
 							<p>Nous analysons les besoins du client pour réaliser une proposition technique. Si cette proposition est acceptée, on organise une réunion Kick-off pour  lancer le projet. On commence par travailler l’ergonomie, puis la création graphique, et enfin le développement et l’intégration graphique. Puis nous réalisons une série de tests sous différents environnements (différents navigateurs, tailles d’écrans, différents appareils comme les tablettes et mobiles) . Pour finir nous présentons le projet au client qui valide ou qui demande éventuellement des retouches.</p>
 							</div>
@@ -112,8 +113,8 @@
 					</div>
 				</div>
 			</div>	
-		</div>-->
-		<div class="carousel-item active">
+		</div>
+		<div class="carousel-item">
 			<div class="d-block w-100" alt="second slide" >
 				<div class="container">	
 					<div class="row">
@@ -133,25 +134,26 @@
 				</div>
 			</div>	
 		</div>
-		<!--<div class="carousel-item">
+		<div class="carousel-item">
 			<div class="d-block w-100" alt="third slide">
 				<div class="container">	
 					<div class="row">
 						<div class="col ">
-							<img src="image/slide/slydephoto13.png" style="height : 75% ;" class="img-fluid popo" alt="Responsive image">
+							<img src="image/slide/slydephoto13.png" class="slider-img" class="img-fluid popo" alt="Responsive image">
 						</div>
-						<div class="col-sm-12 col-lg-6  texteslide">
-							<div class="etud"> <h4>comment voyez-vous ce métier dans quelques années ?</h4>
+						<div class="col-sm-12 col-lg-6 texteslide vcenter">
+							<div> <h4>comment voyez-vous ce métier dans quelques années ?</h4>
 												<br /><br />
 												<p>A mon avis le métier de développeur va se démocratiser, il y a besoin de développeurs dans tout 
 												les secteurs d’activité. Tout comme le “webmaster” des années 2000 qui faisait à lui tout seul design, 
 												ergonomie, développement et intégration, et qui s’est transformé en autant de métiers différents, le développeur 
-												web se spécialiseras d'avantage à l’avenir.</p></div>
+												web se spécialiseras d'avantage à l’avenir.</p>
+							</div>
 						</div>
 					</div>
 				</div>
 			</div>	
-		</div>-->
+		</div>
 	
 	<a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
 		<span class="carousel-control-prev-icon" aria-hidden="true"></span>
