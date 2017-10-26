@@ -148,6 +148,9 @@ header .navbar-toggler-icon {
     font-size: 1.7em;
     text-align: justify;
 }
+.photog {
+    margin-left: inherit;
+}
 /*************** FIN pourquoi 3DEV *****************/ 
 /***********************************************/
 
