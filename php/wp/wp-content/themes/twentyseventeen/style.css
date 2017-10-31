@@ -1,0 +1,830 @@
+/**************************************************/
+/*********************** DEBUT font *********************/ 
+@font-face {
+    font-family: mosk600;
+    src: url("font/mosk600.ttf");
+}
+@font-face {
+	font-family: mosk700;
+	src: url("font/mosk700.ttf");
+}
+@font-face {
+    font-family: mosk800;
+    src: url("font/mosk800.ttf");
+}
+@font-face {
+    font-family: mosk900;
+    src: url("font/mosk900.ttf");
+}
+@font-face {
+    font-family: gros titre;
+    src: url("font/mosk900.ttf");
+}
+/*********************** FIN font ***********************/ 
+/********************************************************/
+
+
+
+
+
+
+
+
+
+
+/********************************************************/
+/*********************** DEBUT menu *********************/ 
+.nav-link:hover {
+    font-size: 1.5em;
+    color: yellow;
+    padding-top: 1em;
+    margin-top: 1em;
+    padding: 0;
+}
+.nav-link {
+    font-size : 1.5em;
+    color: white;
+    background-attachment: fixed !important;
+    padding-top: 1em;
+    margin-top: 1em;
+    padding: 0;
+}
+.txtnav {font-family: mosk600;
+        color: white;
+}
+header {
+	width : 100% ; 
+    z-index: 1000;
+    background-color: rgba(0, 0, 0, 0.7)!important;
+	position : fixed ;  
+	background-color: #FFFFFF;
+}
+header .navbar-nav a.nav-link {
+	color: white;
+}
+header .navbar-nav a.nav-link:hover {
+	color: yellow;
+}
+header .navbar-toggler-icon {
+	background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='white' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E"); 
+}
+@media screen and (max-width:900px) {
+	.col-3{
+		flex: 0 0 50%;
+		max-width: 50%;
+	}
+	
+	header {
+		position: fixed;
+		background-color: #FFFFFF;
+	}
+	header .navbar-nav a.nav-link {
+		color: white;
+	}
+	header .navbar-nav a.nav-link:hover {
+		color: yellow;
+	}
+	header .navbar-toggler-icon {
+		background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='white' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+	}
+}
+/*********************** FIN menu ****************************/
+/************************************************************/ 
+
+
+
+
+
+
+
+
+
+
+/**************************************************/
+/*********************** DEBUT video *********************/ 
+.accroche {
+    width: 100%;
+    padding-top: 350px;
+    display: block;
+    text-align: center;
+}
+.titre {
+    display: block;
+    color: white;
+    font-family: gros titre;
+    position: fixed;
+}
+.bandeau-noir {
+    background-color: black;
+    width: 100%;
+    height: 5em;
+    margin: 0;
+    padding: 0;
+}
+/************************FIN video *******************/
+/************************************************/ 
+
+
+
+
+
+
+
+
+
+
+/*****************************************************/
+/*************** DEBUT pourquoi 3DEV *****************/ 
+.center-vertical {
+    display: flex;
+    align-items: center;
+}
+.T1 {
+    color: #f2d500;
+    font-family: mosk900
+}
+.T2 {
+    color: black;
+    font-family: mosk900
+}
+.T3 {
+    color: black;
+    font-family: mosk900
+}
+.pourquoi_3dev {
+    text-align: left;
+    font-family: helvetica;
+    font-size: 1.7em;
+    text-align: justify;
+}
+.photog {
+    margin-left: inherit;
+}
+
+/*************** FIN pourquoi 3DEV *****************/ 
+/***********************************************/
+
+
+
+
+
+
+
+
+
+
+/*******************************************************/
+/*************** DEBUT bandeau jaune *******************/ 
+.bandeau {
+    text-align: center;
+    line-height: 1.2;
+}
+.bandeaunumber {
+    color: white;
+    font-family: mosk600;
+    text-align: center;
+    font-size: 10em;
+    padding: none;
+    margin: none;
+}
+.bandeaunumber1 {
+    color: black;
+    font-family: helvetica;
+    margin: none;
+    padding: none;
+    font-size: 25px;
+    padding-bottom: 2em;
+    text-align: center;
+}
+/***************** FIN bandeau jaune ********************/
+/*******************************************************/
+
+
+
+
+
+
+
+
+
+
+/*********************************************************/
+/******************** DEBUT Slide ***********************/
+
+@media screen and (max-width:992px) {
+	.slider-img{
+		display: block;
+		margin: auto;
+	}
+	.texteslide{
+		margin-bottom: 2em;
+		text-align: center;
+	}
+}
+.slider-img{
+		margin-top: 2em;
+		margin-bottom: 2em;
+}
+/******************** FIN Slide *************************/
+/*********************************************************/
+
+
+
+
+
+
+
+
+
+
+/************************** DEBUT PROJET*******************/
+/*********************************************************/
+.linkform {
+    text-decoration: none;
+}
+.plus {
+    color: white;
+    display: block;
+    background-color: #f2d500;
+    width: 2em;
+    height: 2em;
+    padding-top: 0.3em;
+    margin-left: 12.5em;
+    margin-top: -7em;
+}
+.plus:hover {
+    display: block;
+    background-color: white;
+    color: #f2d500;
+    width: 2em;
+    height: 2em;
+    padding-top: 0.3em;
+    margin-left: 12.5em;
+    margin-top: -7em;
+}
+.projet {
+    margin-top: 2em;
+    text-align: center;
+    color: black;
+    font-size: 4em;
+    font-family: mosk900;
+}
+@media screen and (max-width:1200px) {
+    .plus {
+        display: block;
+        background-color: #f2d500;
+        width: 2em;
+        height: 2em;
+        padding-top: 0.3em;
+        margin-right: -1em;
+        margin-left: 10.5em;
+        margin-top: -7em;
+    }
+    .plus:hover {
+        display: block;
+        background-color: white;
+        color: #f2d500;
+        width: 2em;
+        height: 2em;
+        padding-top: 0.3em;
+        margin-right: -1em;
+        margin-left: 10.5em;
+        margin-top: -7em;
+    }
+}
+@media screen and (max-width:990px) {
+    .plus {
+    display: block;
+    background-color: #f2d500;
+    width: 2em;
+    height: 2em;
+    padding-top: 0.3em;
+    margin-right: 0em;
+    margin-left: 15.5em;
+    margin-top: -7em;
+}
+.plus:hover {
+    display: block;
+    background-color: white;
+    color: #f2d500;
+    width: 2em;
+    height: 2em;
+    margin-right: 0em;
+    padding-top: 0.3em;
+    margin-left: 15.5em;
+    margin-top: -7em;
+}
+}
+ @media screen and (max-width: 770px) {
+    .plus {
+        display: block;
+        background-color: #f2d500;
+        width: 2em;
+        height: 2em;
+        padding-top: 0.3em;
+        margin-right: -1em;
+        margin-left: 11.5em;
+        margin-top: -7em;
+    }
+    .plus:hover {
+        display: block;
+        background-color: white;
+        color: #f2d500;
+        width: 2em;
+        height: 2em;
+        padding-top: 0.3em;
+        margin-right: -1em;
+        margin-left: 11.5em;
+        margin-top: -7em;
+    }
+}
+@media screen and (max-width: 520px){
+    .plus {
+        display: block;
+        background-color: #f2d500;
+        width: 11.8em;
+        height: 2em;
+        padding-top: 0.3em;
+        margin-right: -1em;
+        margin-left: 0.39em;
+        margin-top: -7.9em;
+    }
+    
+    .plus:hover {
+        display: block;
+        background-color: white;
+        color: #f2d500;
+        width: 11.8em;
+        height: 2em;
+        padding-top: 0.3em;
+        margin-right: -1em;
+        margin-left: 0.39em;
+        margin-top: -7.9em;
+    }
+}
+@media screen and (max-width: 320px){
+    .plus {
+        display: #f2d500;
+        background-color: #F2D500;
+        width: 7.3em;
+        height: 2em;
+        padding-top: 0.4em;
+        margin-right: -1em;
+        margin-left: 0.4em;
+        margin-top: -9.3em;
+    }
+        
+    .plus:hover {
+        display: #f2d500;
+        background-color: white;
+        width: 7.3em;
+        height: 2em;
+        padding-top: 0.4em;
+        margin-right: -1em;
+        margin-left: 0.4em;
+        margin-top: -9.3em;
+    }
+}
+
+/*********************************************************/
+/*****************FIN PROJET ****************************/
+
+
+
+
+
+
+
+
+
+/***************************************************/
+/*************** DEBUT intro formation *******************/
+.titre-photo {
+                
+    color: white;
+    font-family: mosk600;
+    font-size: 1.5em;
+    text-align: center;
+    padding: 1em;
+    margin-top: 4em;
+   background-color: rgba(0,0,0,0.5);
+}
+.imagebackground {
+    /* can change */
+    text-decoration: none;
+    height: 40em;
+    background-image: url("image/photo.jpg");
+    color: white;
+    padding: 100px 0;
+
+    
+    /* don't change */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizelegibility;
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+    background-color: #FFFFFF;
+}
+/***************** FIN intro formation *******************/
+/*********************************************************/
+
+
+
+
+
+
+
+
+
+
+
+/*********************************************************/
+/******************** DEBUT Abonne-toi *******************/
+#spaceabo {
+    margin-bottom: 8em;
+    height: 3em;
+}
+#spaceab {
+    display: inline-block;
+    margin-bottom: 2rem;
+}
+label h1 {
+    font-family: mosk600;
+    color: #f2d500
+}
+h1 {
+    font-size: 40px;
+    text-align: center;
+}
+.btnhome {
+         margin-top: 99.5px;
+         margin-top: 102.5px;
+}
+.homebtn {
+        padding: 0.8rem .75rem;
+}
+/******************* FIN Abonne-toi **********************/
+/*********************************************************/
+
+
+
+
+
+
+
+
+
+
+/*********************************************************/
+/******************** DEBUT footer ***********************/
+footer {
+    background-color: black;
+    height: auto;
+    padding-bottom: 30px;
+    position: relative;
+    width: 100%;
+    border-bottom: 1px solid #CCCCCC;
+    border-top: 1px solid #DDDDDD;
+}
+footer h3 {
+    border-bottom: 1px solid white;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 27px;
+    padding: 40px 0 10px;
+    text-transform: uppercase;
+}
+footer ul {
+    font-size: 17px;
+    list-style-type: none;
+    margin-left: 0;
+    padding-left: 0;
+    margin-top: 15px;
+    color: white;
+}
+footer ul li a {
+    padding: 0 0 5px 0;
+    display: block;
+}
+footer a {
+    color: white
+}
+.lyon {
+    font-size: 30px
+}
+.onlylyon {
+    max-width: 250px;
+    height: auto;
+    padding: 0;
+    margin-bottom: 4em;
+    margin-top: -10px
+}
+#lien:hover {
+    color: #f2d500;
+    text-decoration: none;
+}
+.fb {
+    display: block;
+    width: 23px;
+    height: 50px;
+    background: url('/wp-content/themes/twentyseventeen/image/fb.png') bottom;
+    text-indent: -99999px;
+    background-repeat: no-repeat;
+    margin-right: 10%;
+    margin-left: 8%;
+    margin-top: 5%;
+}
+.fb:hover {
+    background-position: 0 0;
+}
+.tw2 {
+    display: block;
+    width: 53px;
+    height: 46px;
+    background: url('/wp-content/themes/twentyseventeen/image/tw2.png') bottom;
+    text-indent: -99999px;
+    background-repeat: no-repeat;
+    margin-top: 6%;
+    margin-right: 10%;
+}
+.tw2:hover {
+    background-position: 0 0;
+}
+.ig2 {
+    display: block;
+    width: 51px;
+    height: 50px;
+    background: url('/wp-content/themes/twentyseventeen/image/ig2.png') bottom;
+    text-indent: -99999px;
+    background-repeat: no-repeat;
+    margin-top: 5%;
+    margin-right: 10%;
+}
+.ig2:hover {
+    background-position: 0 0;
+}
+.g2 {
+    display: block;
+    width: 81px;
+    height: 51px;
+    background: url('/wp-content/themes/twentyseventeen/image/g2.png') bottom;
+    text-indent: -99999px;
+    background-repeat: no-repeat;
+    margin-top: 5%;
+}
+.g2:hover {
+    background-position: 0 0;
+}
+@media screen and (max-width:1200px) and (min-width:992px) {
+    .fb{margin-right: 10%;
+        margin-left: 25%;
+        margin-top: 5%;
+    }
+    .tw2{margin-right: 0%;
+        margin-left: 15%;
+        margin-top: 5%;
+    }
+    .ig2{margin-right: 10%;
+        margin-left: 22%;
+        margin-top: 10%;
+    }
+    .g2{margin-right: 0%;
+        margin-left: 9%;
+        margin-top: 9%;
+    }
+}
+@media screen and (max-width:992px) and (min-width:768px) {
+    .fb{margin-left: 18%;
+    }
+    .tw2{margin-left: 15%;
+    }
+    .ig2{margin-left: 13%;
+        margin-top: 10%;
+    }
+    .g2{margin-left: 5%;
+        margin-top: 9%;
+    }
+}
+@media screen and (max-width:768px) and (min-width:548px)  {
+    .fb{margin-left: 35%;
+    }
+    .tw2{margin-left: 23%;
+        margin-top: 20%;
+    }
+    .ig2{margin-left: 23%;
+        margin-top: 20%;
+    }
+    .g2{margin-left: 23%;
+        margin-top: 20%;
+    }
+}
+/******************** FIN footer *************************/
+/*********************************************************/
+
+
+
+
+
+
+
+
+
+
+/***********************************************************************/
+/************** DEBUT page formation: Photo avec texte *****************/
+.myBackgroundImage {
+    background-image: url("image/formation.png");
+    background-repeat: no-repeat;
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+    height: 40em;
+}
+.na {
+    display: block;
+    color: white;
+    font-family: gros titre;
+    text-align: center;
+}
+.bandeauyellow {
+	display: block ;
+	height : 5em ; 
+	background-color : #F2D500 ;
+	text-align: center ;
+	font-family: mosk900;
+	color : white ; 
+	font-size: 1.5em;
+	padding-top: 1.7em
+}
+/************** FIN page formation: Photo avec texte *******************/
+/***********************************************************************/
+
+
+
+
+
+
+
+
+
+/***********************************************************************/
+/****************** DEBUT page formation: tabeau ***********************/
+.blackbg {
+    background: black
+}
+.containerformation {
+    padding-bottom: 30px;
+    padding-top: 5em;
+}
+span {
+    color: white;
+}
+.engrenage {
+    height: 100px;
+    width: 100px;
+    display: block;
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto auto;
+}
+.forma {
+    font-family: arial;
+    font-size: 25px;
+    text-align: left;
+}
+@media screen and (max-width: 992px) { 
+    .forma {
+        text-align: center;
+        width: 100%;
+        padding-top: 20px;
+    }
+}
+.spaceline {
+    margin-bottom: 100px
+}
+.vcenter {
+    display: flex;
+    align-items: center;
+}
+.monStyle {
+    color: white;
+	padding: 3em;
+	margin-top: 3em;
+	font-family: helvetica;
+}
+/****************** FIN page formation: tabeau ***********************/
+/*********************************************************************/
+
+
+
+
+
+
+
+
+
+
+
+/***********************************************************************/
+/****************** DEBUT page formation: tarif ***********************/
+.bandeauform {
+	margin-top : 3em;
+    text-align: center;
+    line-height: 1.2;
+}
+.bandeaunumberform {
+    color: white;
+    font-family: mosk600;
+    text-align: center;
+    font-size: 4em;
+    padding-top: 1em;
+    margin: none;
+}
+.bandeaunumber1form {
+    color: black;
+    font-family: helvetica;
+    margin: none;
+    padding: none;
+    font-size: 1em;
+    padding-bottom: 1em;
+    text-align: center;
+}
+
+/****************** FIN page formation: tarif ***********************/
+/*********************************************************************/
+
+
+
+
+
+
+
+
+
+/*********************************************************************/
+/********************** DEBUT page contact **************************/
+#map {
+    width: 100%;
+    height: auto;
+}
+iframe {
+	height: 600px;
+}
+.bandeaujaune {
+    display: block;
+    background-color: rgb(242, 213, 0);
+    text-align: center;
+    vertical-align: center;
+    width: 100%;
+    height: 3em;
+    font-size: 2em;
+    font-family: gros titre;
+    color: white;
+    padding-top: 0.8em;
+}
+.noform-control {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+.spacebtn {
+    margin-bottom: 5em;
+}
+form {
+    display: block;
+    margin-left: -20em;
+    margin-right: 25em;
+    margin-top: 3em;
+}
+.na {
+    display: block;
+    color: white;
+    font-family: gros titre;
+    text-align: center;
+}
+.prenom {
+	margin-top: 1.5em;
+}
+.nom {
+	margin-top: 1.5em;
+}
+.email {
+	margin-top: -0.5em;
+}
+.aide {
+	margin-top: -0.5em;
+}
+.envoyer {
+	margin-top: 1em;
+	margin-bottom: 2em;
+}
+.sujet {
+	margin-top: 0em;
+}
+
+/*********************************************************************/
+/********************** FIN page contact **************************/
