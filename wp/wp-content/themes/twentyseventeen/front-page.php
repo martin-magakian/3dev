@@ -37,8 +37,19 @@ get_header(); ?>
 				</div>
 				<div class="col-8">
 					<h1 class="title"><span class="T1">&#60&#47Pourquoi</span><span class="T2">3</span><span class="T3">DEV</span><span class="T1">&#62 </span> </span></h1>
-					<p class="sstitle">
-						3 dev, c’est la première formation uniquement pour developeurs ouverte à tous. Sa pédagogie c’est le bootcamps, travailler sur des vrais projet ensemble dans une ambiance de start up et de famille.
+					<p class="article">
+			<?php
+			while ( have_posts() ) : the_post();
+
+				get_template_part( 'template-parts/page/content', 'page' );
+
+				// If comments are open or we have at least one comment, load up the comment template.
+				if ( comments_open() || get_comments_number() ) :
+					comments_template();
+				endif;
+
+			endwhile; // End of the loop.
+			?>
 					</p>
 				</div>
 				<div class="col-2">
