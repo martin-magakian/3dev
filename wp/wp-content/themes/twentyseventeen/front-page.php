@@ -19,17 +19,17 @@ get_header(); ?>
 
 <!--video-->
 <div data-vide-bg="mp4: https://www.ironhack.com/assets/videos/ironhack-video-3.mp4, poster: /image/telephone.png" style="height: 600px">
-	<h1 class="accroche"><span class="T1">&#60&#47Vivre le code></span></h1>
+	<h1 class="accroche"><span class="T1"><?php the_field("titre");?></span></h1>
 </div>
 		
 <div class="container-fluid bandeau-noir " style="background-color : black">
 </div>
-
  <!--pourquoi ?--> 
 <div class="container-fluid">
 	<div class="row">
 		<div class="col-lg-6 col-md-12 photog center-vertical">
-			<img src="/wp-content/themes/twentyseventeen/image/photogrp.png" class="img-fluid fullsizeimg" alt="Responsive image">
+			<?php $image = get_field('photo'); ?>
+			<img src="<?php echo $image['url']; ?>" class="img-fluid fullsizeimg" alt="Responsive image">
 		</div>
 		<div class="col-lg-6 col-md-12 center-vertical">
 			<div class="row pourquoi_3dev">
