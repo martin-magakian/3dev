@@ -20,20 +20,17 @@ get_header(); ?>
 <!--video-->
 <div data-vide-bg="mp4: https://www.ironhack.com/assets/videos/ironhack-video-3.mp4, poster: /image/telephone.png" style="height: 600px">
 	<h1 class="accroche"><span class="T1"><?php the_field('home_title'); ?></span></h1>
-	<h1 class="accroche"><span class="T1"><?php the_field("titre");?></span></h1>
 </div>
 		
 <div class="container-fluid bandeau-noir " style="background-color : black">
 </div>
+
  <!--pourquoi ?--> 
 <div class="container-fluid">
 	<div class="row">
 		<div class="col-lg-6 col-md-12 photog center-vertical hero">
 	    <?php $image = get_field('imggrp'); ?>
 	    <img src="<?php echo $image['url']; ?>" alt="<?php echo $image['alt']; ?>" />
-		<div class="col-lg-6 col-md-12 photog center-vertical">
-			<?php $image = get_field('photo'); ?>
-			<img src="<?php echo $image['url']; ?>" class="img-fluid fullsizeimg" alt="Responsive image">
 		</div>
 		<div class="col-lg-6 col-md-12 center-vertical">
 			<div class="row pourquoi_3dev">
