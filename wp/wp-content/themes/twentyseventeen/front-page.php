@@ -19,7 +19,7 @@ get_header(); ?>
 
 <!--video-->
 <div data-vide-bg="mp4: https://www.ironhack.com/assets/videos/ironhack-video-3.mp4, poster: /image/telephone.png" style="height: 600px">
-	<h1 class="accroche"><span class="T1">&#60&#47Vivre le code></span></h1>
+	<h1 class="accroche"><span class="T1"><?php the_field('home_title'); ?></span></h1>
 </div>
 		
 <div class="container-fluid bandeau-noir " style="background-color : black">
@@ -28,8 +28,9 @@ get_header(); ?>
  <!--pourquoi ?--> 
 <div class="container-fluid">
 	<div class="row">
-		<div class="col-lg-6 col-md-12 photog center-vertical">
-			<img src="/wp-content/themes/twentyseventeen/image/photogrp.png" class="img-fluid fullsizeimg" alt="Responsive image">
+		<div class="col-lg-6 col-md-12 photog center-vertical hero">
+	    <?php $image = get_field('imggrp'); ?>
+	    <img src="<?php echo $image['url']; ?>" alt="<?php echo $image['alt']; ?>" />
 		</div>
 		<div class="col-lg-6 col-md-12 center-vertical">
 			<div class="row pourquoi_3dev">
@@ -56,25 +57,25 @@ get_header(); ?>
 <div class="container-fluid">
 	<div class="row bandeau" style="background-color : #f2d500">
 		<div class="col-md-3 col-sm-6 bandeaunumber" >
-			3
+			<?php the_field('nbr1'); ?>
 			<div class="bandeaunumber1" >
 			ans
 			</div>
 		</div>
 		<div class="col-md-3 col-sm-6 bandeaunumber">
-			20
+			<?php the_field('nbr2'); ?>
 			<div class="bandeaunumber1" >
 			élèves par classe
 			</div>
 		</div>
 		<div class="col-md-3 col-sm-6 bandeaunumber">
-			2
+			<?php the_field('nbr3'); ?>
 			<div class="bandeaunumber1" >
 			profs
 			</div>
 		</div>
 		<div class="col-md-3 col-sm-6 bandeaunumber">
-			50
+			<?php the_field('nbr4'); ?>
 			<div class="bandeaunumber1" >
 			heures par semaine
 			</div>
@@ -89,7 +90,7 @@ get_header(); ?>
 			<a class="row justify-content-center align-items-center linkform" a href="/formation/" style="text-decoration: none;">
 			  <div class="col-lg-6 col-sm-12" style="text-align: center">
 
-				<h2 class="titre-photo"<br>Rentrée en septembre</br><br>Pédagogie Bootcamp</br><br>Rythme de travail intensif</br><br>Pro liés au monde du travail</br></h2>
+				<h2 class="titre-photo"><br><?php the_field('introforma'); ?></br><br>Pédagogie Bootcamp</br><br>Rythme de travail intensif</br><br>Pro liés au monde du travail</br></h2>
 				<div class="row">
 					<h1 class="plus">+</h1>
 			  </div>
