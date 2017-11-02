@@ -119,7 +119,51 @@ get_header(); ?>
 
 
 <!--slide avis étudiant créer-->
-<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+
+	
+
+<div class="row">
+<?php if( have_rows('slides') ): ?>
+
+	<ul class="slides">
+
+	<?php while( have_rows('slides') ): the_row(); 
+
+		// vars
+		$image = get_sub_field('image');
+		$content = get_sub_field('content');
+		$link = get_sub_field('link');
+
+		?>
+
+		<li class="slide">
+
+			<?php if( $link ): ?>
+				<a href="<?php echo $link; ?>">
+			<?php endif; ?>
+
+				<img src="<?php echo $image['url']; ?>" alt="<?php echo $image['alt'] ?>" />
+
+			<?php if( $link ): ?>
+				</a>
+			<?php endif; ?>
+
+		    <?php echo $content; ?>
+
+		</li>
+
+	<?php endwhile; ?>
+
+	</ul>
+
+<?php endif; ?>
+
+</div>
+
+
+		</div>
+
+<!--<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
 		<ol class="carousel-indicators">
 			<li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
 			<li data-target="#carouselExampleIndicators" data-slide-to="1" class="active"></li>
@@ -195,7 +239,7 @@ get_header(); ?>
 		<span class="sr-only">Next</span>
 	</a>
 	</div>
-</div>
+</div>-->
 <!--slide projet avec photo-->
 <h1 class="projet">LES PROJETS</h1>
 <div id="carouselExampleIndicators2" class="carousel slide " data-ride="carousel">
@@ -245,7 +289,7 @@ get_header(); ?>
 
 	
 
-</div>
+
 </div>
 
 
