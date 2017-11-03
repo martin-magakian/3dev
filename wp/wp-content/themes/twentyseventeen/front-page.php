@@ -19,7 +19,7 @@ get_header(); ?>
 
 <!--video-->
 <div data-vide-bg="mp4: https://www.ironhack.com/assets/videos/ironhack-video-3.mp4, poster: /image/telephone.png" style="height: 600px">
-	<h1 class="accroche"><span class="T1"><?php the_field('home_title'); ?></span></h1>
+	<h1 class="accroche"><span class="T1">&#60&#47Vivre le code></h1>
 </div>
 		
 <div class="container-fluid bandeau-noir " style="background-color : black">
@@ -30,7 +30,7 @@ get_header(); ?>
 	<div class="row">
 		<div class="col-lg-6 col-md-12 photog center-vertical hero">
 	    <?php $image = get_field('imggrp'); ?>
-	    <img src="<?php echo $image['url']; ?>" alt="<?php echo $image['alt']; ?>" />
+	    <img src="<?php echo $image['url']; ?>" alt="<?php echo $image['alt']; ?>" class="img-responsive" />
 		</div>
 		<div class="col-lg-6 col-md-12 center-vertical">
 			<div class="row pourquoi_3dev">
